@@ -34,3 +34,5 @@ data/sf/stops.json
 udc2013/
 
 data/sf/sf-route-1-schedule-real.csv
+
+.DS_Store
