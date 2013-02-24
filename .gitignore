@@ -36,3 +36,17 @@ udc2013/
 data/sf/sf-route-1-schedule-real.csv
 
 .DS_Store
+
+project/src/main/webapp/WEB-INF/classes/launch/Main.class
+
+project/src/main/webapp/WEB-INF/classes/servlet/HelloServlet.class
+
+project/src/main/webapp/WEB-INF/lib/ecj-3.7.2.jar
+
+project/src/main/webapp/WEB-INF/lib/tomcat-api-7.0.34.jar
+
+*.jar
+
+*.war
+
+*.class
