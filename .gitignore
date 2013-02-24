@@ -16,3 +16,21 @@ project/src/main/webapp/resources/data/.DS_Store
 project/src/main/webapp/resources/data/sf/.DS_Store
 
 project/src/main/webapp/resources/scripts/.DS_Store
+
+project/.DS_Store
+
+project/postgres.py
+
+schema/create-sf-arrivals-table.sql
+
+data/sf/routes.csv
+
+data/sf/stops.csv
+
+data/sf/routes.json
+
+data/sf/stops.json
+
+udc2013/
+
+data/sf/sf-route-1-schedule-real.csv
