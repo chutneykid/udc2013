@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link href="resources/scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  
+  <script src="resources/scripts/crossfilter.v1.js"></script>
+  <script src="resources/scripts/d3.v2.js"></script>
+  <script src="resources/scripts/jquery-1.9.1.min.js"></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-YiurRX6GixuExPSrQgbcOwcUWinAn54&sensor=false">
+  </script>
+  <script src="resources/scripts/bootstrap/js/bootstrap.min.js"></script>
+  <script src="resources/scripts/GeoJSON.js"></script>
+  
+  <style type="text/css">
+    html { height: 100% }
+    body { height: 100%; margin: 0; padding: 0 }
+    #map_canvas { height: 450px; width:800px; }
+  </style>
+  
+</head>
+<body onload="initialize()">
+  
+    <!-- python -m SimpleHTTPServer -->
+    
+    <!-- GUI Selector -->
+    <div id="form">
+      <!--select id="city"></select-->
+      <label>
+        <select id="route">
+          <option>Select a route ...</option>
+        </select>
+      </label>
+      <strong>Or</strong><br/>
+      <label>
+        <select id="stops">
+          <option>Select a stop ...</option>
+        </select>
+      </label>
+      
+      <!--button id="refresh">Refresh</button-->
+      
+      <div id="info">
+        Showing info for: 
+        <div></div>
+        <div class="stop"></div>
+        
+      </div>
+    </div>
+    <div id="viz"></div>
+    
+    <div id="map_canvas" style="width:600;"></div>
+    
+    <script type="text/javascript">    
+    
+    /* Add Google Map */
+    var map;
+    function initialize() {
+      var mapOptions = {
+        center: new google.maps.LatLng(37.79379, -122.409774),
+        zoom: 13,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+      };
+      
+      map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+
+      //map.setOptions({styles: styles});
+      // Show the transit layer
+      //var transitLayer = new google.maps.TransitLayer();
+      //transitLayer.setMap(map);
+    }    
+
+    // Like d3.time.format, but faster.
+    function parseDate(d) {
+      return new Date(2001,
+          d.substring(0, 2) - 1,
+          d.substring(2, 4),
+          d.substring(4, 6),
+          d.substring(6, 8));
+    }
+    
+    function filterJSON(json, key, value) {
+      var result = {};
+      for (var explosionIndex in json) {
+        if (json[explosionIndex][key] === value) {
+          result[explosionIndex] = json[explosionIndex];
+        }
+      }
+      return result;
+    }
+    
+    var markersArray = [];
+    google.maps.Map.prototype.addMarker = function(location) {
+      map.clearMarkers();
+      
+      var marker = new google.maps.Marker({
+        position: location,
+        map: map
+      });
+      
+      markersArray.push(marker);
+    };
+    
+    google.maps.Map.prototype.clearMarkers = function() {
+        for(var i=0; i < markersArray.length; i++){
+            markersArray[i].setMap(null);
+        }
+        this.markers = new Array();
+    };
+    
+    var format = d3.time.format("%b %Y");
+    var arrivals;
+
+    // Populate the List of Routes
+    var routeSelect = $("#route");
+    var googleOptions = { strokeColor: '#00746b', strokeWeight: 1 };
+    
+    /* TODO make city > route > data variables 
+     * Routes.csv is just a list of routes, not the shape files 
+     */
+    d3.csv("resources/data/sf/routes/routes.csv", function(data) {
+      
+      data.forEach(function(d, i){
+        var value = d.route_short_name + " -- " + d.route_long_name + " " + d.route_id;
+        routeSelect.append($("<option></option>").attr("value",d.route_short_name).text(value)); 
+      });
+      
+      /* Routes.csv is the geoJSON files */
+      $.getJSON('resources/data/sf/routes.json', function(data) {
+        
+        var myGoogleVector = new GeoJSON(data, googleOptions);
+
+        /* Check the Depth of the geoJSON 
+           TODO: Move to reusable func.
+           TODO: SANJU to Add his d3 geoJSON, which is colored by route. 
+           TODO: Add or remove route based upon the route select box. 
+        */
+				for (var i = 0; i < myGoogleVector.length; i++){
+					if(myGoogleVector[i].length){
+						for(var j = 0; j < myGoogleVector[i].length; j++){
+							myGoogleVector[i][j].setMap(map);
+						}
+					}
+					else{
+						myGoogleVector[i].setMap(map);
+					}
+				}
+      });
+    });
+    
+    // Populate the List of Stops
+    var stopSelect = $("#stops");
+    var stops;
+    d3.csv("resources/data/data/sf/stops/stops.csv", function(data) {
+      
+      stops = data
+      data.forEach(function(d, i){
+        var value = d.stop_id + " -- " + d.stop_name;
+        stopSelect.append($("<option></option>").attr("value", d.stop_id).text(value)); 
+      });
+    });
+    
+    stopSelect.bind("change", function(){
+      var value = $(this).val();
+      
+      var stop = stops.filter(function(d) { 
+        return d.stop_id == value;
+      });
+      
+                  
+      var coord = new google.maps.LatLng(stop[0].stop_lat, stop[0].stop_lon);
+      map.addMarker(coord);
+      
+      $("#info .stop").html(stop[0].stop_name)
+      google.maps.event.trigger(map, 'resize');
+      map.setCenter(coord);
+      
+      
+    });
+    
+    
+    
+
+    /*
+    d3.csv("sf-route-1-schedule-real.csv", function(data) {
+
+      //console.log(routes)
+      arrivals = data;
+      
+      // TODO: Update to match arrival and schedule column
+      var formatNumber = d3.format(",d"),
+          formatChange = d3.format("+,d"),
+          formatDate = d3.time.format("%B %d, %Y"),
+          formatTime = d3.time.format("%I:%M %p");
+      
+      arrivals.forEach(function(d, i) {
+        d.index = i;
+        console.log(d.date)
+        //d.date = parseDate(d.date);
+        //d.delay = +d.delay;
+        //d.distance = +d.distance;
+      });
+                  
+    });
+    */
+        
+    </script>
+</body>
+</html>

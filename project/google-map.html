@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map_canvas { height: 600px; }
+    </style>
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-YiurRX6GixuExPSrQgbcOwcUWinAn54&sensor=true">
+    </script>
+    <script src="jquery-1.9.1.min.js"></script>
+    <script src="GeoJSON.js"></script>
+    
+    <script type="text/javascript">
+    var map;
+    var routes;
+    var options = {
+      strokeColor: "#FFFF00",
+      strokeWeight: 7,
+      strokeOpacity: 0.75
+    };
+    
+    /* https://developers.google.com/maps/documentation/javascript/reference#TrafficLayer */
+    /*
+    var styles = [
+      {
+        stylers: [
+          { hue: "#00ffe6" },
+          { saturation: -20 }
+        ]
+      },{
+        featureType: "transit.station", elementType: "all", stylers: [ { visibility: "on" }, { hue: "#1100ff" } ] 
+      },
+      {
+        featureType: "road",
+        elementType: "labels",
+        stylers: [
+          { visibility: "off" }
+        ]
+      }
+    ];
+    */
+    
+    
+    function initialize() {
+      var mapOptions = {
+        center: new google.maps.LatLng(37.79379, -122.409774),
+        zoom: 13,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+      };
+      
+      map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+
+      //map.setOptions({styles: styles});
+      var transitLayer = new google.maps.TransitLayer();
+      transitLayer.setMap(map);
+      
+      
+    }    
+    
+    
+
+    </script>
+  </head>
+  <body onload="initialize()">
+    Test
+    <div id="map_canvas" style="width:600;"></div>
+  </body>
+</html>
