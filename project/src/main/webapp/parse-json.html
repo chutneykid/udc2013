@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link href="resources/scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  
+  <script src="resources/scripts/crossfilter.v1.js"></script>
+  <script src="resources/scripts/d3.v2.js"></script>
+  <script src="resources/scripts/jquery-1.9.1.min.js"></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-YiurRX6GixuExPSrQgbcOwcUWinAn54&sensor=false">
+  </script>
+  <script src="resources/scripts/bootstrap/js/bootstrap.min.js"></script>
+  <script src="resources/scripts/GeoJSON.js"></script>
+  <script src="resources/scripts/utils.js"></script>
+  
+  <style type="text/css">
+    html { height: 100% }
+    body { height: 100%; margin: 0; padding: 0 }
+    #map_canvas { height: 450px; width:800px; }
+  </style>
+  
+</head>
+<body>
+  <script>
+
+    var city = "zurich"
+    var path = "resources/data/";
+    var stops = null;
+
+    /*
+    d3.csv(path + city + "/stops/stops.json", function(data) {
+      
+      stops = data
+      data.forEach(function(d, i){
+          console.log(d.feature)
+      });
+    });
+    */
+    
+    /*       zurich : new google.maps.LatLng(47.3690, 8.5380) */
+    
+    $.getJSON(path + city + "/stops/stops.json", function(data) {
+      stops = data;
+
+      $("body").append("stop_id, stop_lat, stop_lon <br/>");
+      
+      stops.features.forEach(function(d, i){
+          $("body").append(d.properties.stopId + ", " + d.geometry.coordinates[1] + ", " + d.geometry.coordinates[0]);
+          $("body").append("<br/>");
+      });
+      
+    });
+    
+  </script>
+</body>
+</html>

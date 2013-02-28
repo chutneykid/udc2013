@@ -17,7 +17,7 @@
   <style type="text/css">
     html { height: 100% }
     body { height: 100%; margin: 0; padding: 0 }
-    #map_canvas { height: 450px; width:800px; }
+    #map_canvas { height: 450px; width:100%; }
   </style>
   
 </head>
@@ -68,6 +68,15 @@
       zurich : new google.maps.LatLng(47.3690, 8.5380)
     }
     
+    // more styles: http://mapsys.info/34436/styled-maps-using-google-maps-api-version-3/ 
+    // https://gist.github.com/41latitude
+     
+    var styles = [{"featureType":"administrative.country","elementType":"labels","stylers":[{"saturation":60},{"hue":"#ff00bb"},{"lightness":0}]},{"featureType":"administrative.province","elementType":"labels","stylers":[{"hue":"#ff00bb"},{"saturation":60},{"lightness":0}]},{"featureType":"administrative.neighborhood","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"administrative.land_parcel","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"administrative.province","elementType":"geometry","stylers":[{"hue":"#ff00b2"},{"saturation":50},{"lightness":-20},{"visibility":"simplified"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"road.highway","elementType":"geometry","stylers":[{"visibility":"simplified"},{"gamma":0.8},{"hue":"#0099ff"},{"saturation":-80},{"lightness":10}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"hue":"#ffd500"},{"visibility":"simplified"},{"saturation":-10},{"lightness":-10}]},{"featureType":"road","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"geometry","stylers":[{"saturation":-20},{"lightness":40}]}]
+    var randMcNally = [{"featureType":"landscape.man_made","elementType":"all","stylers":[{"lightness":-46},{"saturation":100},{"hue":"#ffee00"},{"gamma":0.94}]},{"featureType":"road","elementType":"geometry","stylers":[{"hue":"#2a00ff"},{"visibility":"simplified"},{"lightness":-10},{"saturation":-60}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"visibility":"simplified"},{"lightness":20},{"hue":"#ff0066"},{"saturation":20}]},{"featureType":"road","elementType":"labels","stylers":[{"visibility":"simplified"}]},{"featureType":"water","elementType":"all","stylers":[{"lightness":40}]},{"featureType":"administrative.locality","elementType":"all","stylers":[{"lightness":20}]}]
+    var simple = [{"featureType":"road","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"road","elementType":"labels","stylers":[{"visibility":"off"}]}]
+    var simple2 = [{"featureType":"road","elementType":"geometry","stylers":[{"saturation":-100},{"visibility":"simplified"}]},{"featureType":"road","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"landscape","elementType":"labels","stylers":[{"visibility":"off"}]}]
+    var buildings = [{"featureType":"administrative","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"landscape.natural","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"labels","stylers":[{"visibility":"off"}]}]
+    
     DATE_FORMAT = d3.time.format("%b %Y");
     
     /* Setup the Google Map Enviornment */
@@ -85,7 +94,8 @@
       
       map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
 
-      // map.setOptions({styles: styles});
+      // http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html
+      map.setOptions({styles: styles});
       // Show the transit layer
       // var transitLayer = new google.maps.TransitLayer();
       // transitLayer.setMap(map);
@@ -109,6 +119,7 @@
     /* Populate the List of Routes */
     var routeSelect = $("#route");
     var googleOptions = { strokeColor: '#00746b', strokeWeight: 1 };
+    var colors = ["00308F", "A32638", "841B2D", "3D0C02", "004225", "00563F", "232B2B", "013220", "004B49"]
     
     /* 
      * Routes.csv is just a list of routes, not the shape files 
@@ -145,12 +156,18 @@
              TODO: Add or remove route based upon the route select box. 
           */
   				for (var i = 0; i < myGoogleVector.length; i++){
+            var color = colors[i % colors.length];
+
   					if(myGoogleVector[i].length){
   						for(var j = 0; j < myGoogleVector[i].length; j++){
+                
+                //console.log(myGoogleVector[i][j])
+                myGoogleVector[i][j].strokeColor = "#" + color;
   							myGoogleVector[i][j].setMap(map);
   						}
   					}
   					else{
+              myGoogleVector[i].strokeColor = "#" + color;
   						myGoogleVector[i].setMap(map);
   					}
   				}
