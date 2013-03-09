@@ -40,6 +40,38 @@
         <artifactId>tomcat-jsp-api</artifactId>
         <version>${tomcat.version}</version>
     </dependency>
+    <dependency>
+		<groupId>net.sourceforge.csvjdbc</groupId>
+		<artifactId>csvjdbc</artifactId>
+		<version>1.0.12</version>
+    </dependency>
+    <dependency>
+		<groupId>com.sun.jersey</groupId>
+		<artifactId>jersey-server</artifactId>
+		<version>1.8</version>
+	</dependency>
+	<dependency>
+		<groupId>com.google.code.gson</groupId>
+		<artifactId>gson</artifactId>
+		<version>1.7.1</version>
+	</dependency>
+	<dependency>
+    	<groupId>net.sourceforge.javacsv</groupId>
+        <artifactId>javacsv</artifactId>
+        <version>2.0</version>
+    </dependency>
+	<dependency>
+		<groupId>org.springframework</groupId>
+		<artifactId>spring</artifactId>
+		<version>2.5.6</version>
+	</dependency>
+	<dependency>
+    	<groupId>javax</groupId>
+    	<artifactId>javaee-web-api</artifactId>
+    	<version>6.0</version>
+    	<scope>provided</scope>
+  	</dependency>
+    
   </dependencies>
   <build>
     <finalName>urban-data-challenge</finalName>
@@ -97,4 +129,14 @@
          </plugin>
     </plugins>
   </build>
+  <repositories>
+    <repository>
+      <id>SourceForge</id>
+      <url>http://csvjdbc.sourceforge.net/maven2</url>
+    </repository>
+      <repository>
+    <id>central</id>
+    <url>http://repo.maven.apache.org/maven2/</url>
+  </repository>
+  </repositories>
 </project>
