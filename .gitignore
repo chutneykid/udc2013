@@ -67,3 +67,9 @@ project/src/main/webapp/resources/data/sf/routes/shape-to-routes.json
 project/src/main/webapp/resources/data/sf/shapes-new.csv
 
 project/src/main/webapp/resources/data/sf/trips/trips-excerpt.csv
+
+project/target/maven-archiver/pom.properties
+
+project/target/classes/launch/Main.class
+
+python/pandas/
