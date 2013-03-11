@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link href="resources/scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  
+  <script src="resources/scripts/crossfilter.v1.js"></script>
+  <script src="resources/scripts/d3.v2.js"></script>
+  <script src="resources/scripts/jquery-1.9.1.min.js"></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-YiurRX6GixuExPSrQgbcOwcUWinAn54&sensor=false&libraries=geometry">
+  
+  <script src="resources/scripts/bootstrap/js/bootstrap.min.js"></script>
+  <script src="resources/scripts/GeoJSON.js"></script>
+  <script src="resources/scripts/utils.js"></script>
+  
+  <style type="text/css">
+    html { height: 100% }
+    body { height: 100%; margin: 0; padding: 0 }
+    #map_canvas { height: 400px; width:400px; float:right; margin:20px }
+    
+    table#route {
+      border:solid 1px #CCCCCC;
+    }
+    table#route td,
+    table#route th {
+      border:solid 1px #DDDDDD;
+      padding: 4px;
+      text-align:left;
+    }
+    
+  </style>
+  
+</head>
+<body onload="initialize()">
+
+  <div id="viz"></div>
+  <div id="map_canvas" style="width:600;"></div>
+
+  <script>
+
+    var city = "sf"
+    var path = "resources/data/";
+    var stops = null;
+    var trips = null;
+
+    var geocoder;
+    window.distance = [];
+    
+    function initialize() {
+      CITY_CENTER = {
+        sf : new google.maps.LatLng(37.7750, -122.4183),
+        geneva : new google.maps.LatLng(46.2000, 6.1500),
+        zurich : new google.maps.LatLng(47.3690, 8.5380)
+      }
+      
+      var mapOptions = {
+        center: CITY_CENTER[city],
+        zoom: 13,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+      };
+      
+      map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+      
+      /*
+      var transitLayer = new google.maps.TransitLayer();
+      transitLayer.setMap(map);
+      */
+    }
+    
+    d3.csv(path + city + "/stops/stops.csv", function(data) {
+      stops = data
+    });
+
+    d3.csv(path + city + "/trips/trips-excerpt.csv", function(data) {
+      //trips = data;
+      trips = data;
+      var table = $("<table id='route'>");
+      table.prepend("<thead><th>Stop ID</th><th>Route</th><th>Stop Name</th><th>Distance From Previous (km)</th></thead>")
+      
+      var trip = trips.filter( function(d) { return d.trip_id == 5212774});
+      window.prior = null;
+      var center = null;
+      
+      trip.forEach(function(d, i){
+        var current = stops.filter( function(d2) { return d2.stop_id == d.stop_id} )
+
+        if (i !== 0) {          
+          window.prior = stops.filter( function(d2) { return d2.stop_id == trip[i - 1].stop_id} );
+          
+        } else {
+          window.prior = current;
+        }
+        
+        current = current[0];
+        var newPrior = window.prior[0];
+                
+        //var currentStop = new google.maps.LatLng(current.stop_lat, current.stop_lon);
+
+        var currentStop = new google.maps.LatLng(current.stop_lat, current.stop_lon);
+        
+        var priorStop = new google.maps.LatLng(newPrior.stop_lat, newPrior.stop_lon);
+        
+        map.addMultipleMarkers(currentStop);
+                
+        /* https://developers.google.com/maps/documentation/javascript/geometry?hl=el#Distance
+         * computeLength() for the full path */ 
+        var distance = google.maps.geometry.spherical.computeDistanceBetween(currentStop, priorStop);
+
+        /* TODO: Convert to Miles or Kilometers Depending on City? */
+        var km = Math.round((distance / 1000) * 100) / 100;
+        window.distance.push(km)
+        
+        table.append("<tr><td>" + d.stop_id + "</td><td>" + d.stop_sequence + "</td><td>" + current.stop_name + "</td><td>" + km + "</td></tr>");
+        /*
+        var service = new google.maps.DistanceMatrixService();
+        var distance = service.getDistanceMatrix({
+            origins: [priorStop],
+            destinations: [currentStop],
+            travelMode: google.maps.TravelMode.DRIVING,
+            avoidHighways: false,
+            avoidTolls: false
+        }, callback);
+        function callback(response, status) {
+          distance = response;
+          // console.log(response)
+        }
+        */
+      });
+      
+      
+      var total = 0;
+      for (var i = 0; i < window.distance.length; i++) {
+        total += window.distance[i];
+      }
+      total = Math.round(total * 100 / 100);
+
+      $("body").prepend("<h2> Route is about " + total + " kilometers.</h2>");
+      $("body").append(table)
+      
+    });
+    
+  </script>
+</body>
+</html>
