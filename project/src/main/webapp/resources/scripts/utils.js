@@ -29,6 +29,17 @@ google.maps.Map.prototype.addMarker = function(location) {
       
   markersArray.push(marker);
 };
+
+google.maps.Map.prototype.addMultipleMarkers = function(location) {
+      
+  var marker = new google.maps.Marker({
+    position: location,
+    map: map
+  });
+      
+  markersArray.push(marker);
+};
+
     
 google.maps.Map.prototype.clearMarkers = function() {
     for(var i=0; i < markersArray.length; i++){
