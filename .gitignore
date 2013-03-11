@@ -44,8 +44,26 @@ project/src/main/webapp/WEB-INF/lib/tomcat-api-7.0.34.jar
 *.class
 
 project/target
-
 project/src/main/webapp/stop-lat-long.java
 project/.project
+project/.settings
 
 project/.classpath
+
+project/src/main/java/urban/data/challenge/Test.java
+
+project/src/main/java/urban/data/challenge/CSVtoGEO.java
+
+project/src/main/webapp/WEB-INF/classes/urban/data/challenge/db/sf-stop-times.csv
+
+project/src/main/webapp/WEB-INF/classes/urban/data/challenge/db/stops.csv
+
+project/src/main/webapp/hello.jsp
+
+project/src/main/webapp/resources/data/geneva/routes/back-routes.json
+
+project/src/main/webapp/resources/data/sf/routes/shape-to-routes.json
+
+project/src/main/webapp/resources/data/sf/shapes-new.csv
+
+project/src/main/webapp/resources/data/sf/trips/trips-excerpt.csv
