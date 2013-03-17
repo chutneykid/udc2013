@@ -1,0 +1,93 @@
+routeId,routeNumber,routeVLD,branchName
+313,22,545,Bus
+341,95,556,Bus
+343,307,585,Region VBZ
+270,314,506,Limmatbus AG
+344,323,586,Region VBZ
+272,330,508,Limmatbus AG
+365,744,589,Region VBZ
+301,35,530,Quartierbus
+335,76,552,Bus
+257,162,419,AHW
+258,163,420,AHW
+268,309,504,Limmatbus AG
+347,341,565,Nachtbus
+348,342,566,Nachtbus
+349,343,567,Nachtbus
+350,344,568,Nachtbus
+351,345,569,Nachtbus
+352,346,570,Nachtbus
+353,347,571,Nachtbus
+354,348,572,Nachtbus
+355,349,573,Nachtbus
+356,352,574,Nachtbus
+357,391,575,Nachtbus
+358,392,576,Nachtbus
+359,394,577,Nachtbus
+360,395,578,Nachtbus
+361,396,579,Nachtbus
+362,397,580,Nachtbus
+363,398,581,Nachtbus
+369,916,595,AZZK
+371,918,597,AZZK
+372,919,598,AZZK
+305,2,531,Tram
+306,3,532,Tram
+307,4,533,Tram
+308,5,534,Tram
+309,6,535,Tram
+261,7,497,Tram
+310,8,536,Tram
+379,9,469,Tram
+223,10,470,Tram
+380,11,471,Tram
+90,12,480,Tram
+381,13,472,Tram
+382,14,473,Tram
+311,15,537,Tram
+374,17,602,Tram
+317,29,557,Quartierbus
+318,31,540,Trolleybus
+383,32,474,Trolleybus
+319,33,541,Trolleybus
+320,34,542,Trolleybus
+396,37,558,Bus
+322,38,559,Quartierbus
+324,40,561,Quartierbus
+325,46,543,Trolleybus
+297,61,522,Bus
+294,62,523,Bus
+300,63,524,Bus
+327,64,562,Quartierbus
+328,66,547,Bus
+329,67,548,Bus
+330,69,549,Bus
+331,70,550,Bus
+332,72,544,Trolleybus
+334,75,551,Bus
+336,77,553,Bus
+302,78,529,Bus
+337,79,564,Quartierbus
+338,80,554,Bus
+339,89,555,Bus
+298,94,525,Bus
+342,161,582,Region VBZ
+303,165,583,Region VBZ
+106,184,484,Region VBZ
+107,185,485,Region VBZ
+262,301,498,Limmatbus AG
+263,302,499,Limmatbus AG
+264,303,500,Limmatbus AG
+304,304,584,Region VBZ
+265,305,501,Limmatbus AG
+266,306,502,Limmatbus AG
+267,308,503,Limmatbus AG
+269,311,505,Limmatbus AG
+271,325,507,Limmatbus AG
+364,743,588,Region VBZ
+299,747,526,Andres
+366,751,590,Region VBZ
+296,753,527,Andres
+295,786,528,Andres
+367,910,593,AZZK
+368,912,594,AZZK
