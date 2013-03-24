@@ -1,4 +1,4 @@
-,date,routeCode,serviceVehicle,tripId,vehicleId,patternId,tripDirection,tripLength
+,date,route_id,service_id,trip_id,vehicle_id,patternId,direction,tripLength
 28,2012-10-01 00:00:00,E,E-2,27098313,101,4,A,13331
 60,2012-10-01 00:00:00,E,E-2,27098314,101,7,R,13561
 89,2012-10-01 00:00:00,E,E-2,27098316,101,4,A,13331

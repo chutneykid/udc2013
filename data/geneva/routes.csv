@@ -1,4 +1,4 @@
-route_short_name,direction,route_long_name
+route_id,direction,route_name
 D,Inbound,St-Julien-Gare / Vitam'Parc
 11,Inbound,Bout-du-Monde
 NE,Inbound,Gex-Le Turet
