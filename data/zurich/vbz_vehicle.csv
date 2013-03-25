@@ -1,0 +1,590 @@
+vehicleId;vehicleTechnicalID;vehicleTypeShort;vehicleTypeLong;vehicleNumberSeat;vehicleNumberStanding
+579;101ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+580;102ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+581;103ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+583;104ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+584;105ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+585;106ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+586;107ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+587;108ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+588;109ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+987;10AT;ATE SB;ATE Standardbus VBG;0;0
+912;10LI;Sbus;VBZ Standardbus;33;24
+589;110ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+590;111ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+591;112ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+592;113ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+593;114ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+594;115ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+595;116ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+596;117ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+597;118ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+598;119ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+988;11AT;ATE SB;ATE Standardbus VBG;0;0
+913;11LI;Sbus;VBZ Standardbus;33;24
+599;120ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+600;121ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+601;122ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+972;123ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+602;124ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+952;125ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+603;126ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+604;127ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+605;128ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+606;129ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+994;12AT;ATE SB;ATE Standardbus VBG;0;0
+914;12LI;Sbus;VBZ Standardbus;33;24
+607;130ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+608;131ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+609;132ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+610;133ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+611;134ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+612;135ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+613;136ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+614;137ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+615;138ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+616;139ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+995;13AT;ATE SB;ATE Standardbus VBG;0;0
+915;13LI;Sbus;VBZ Standardbus;33;24
+617;140ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+618;141ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+619;142ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+953;143ZH;Trol;VBZ Trolleybus O405 GTZ;43;48
+459;144ZH;HTrol;VBZ Hess-Trolleybus;45;52
+464;145ZH;HTrol;VBZ Hess-Trolleybus;45;52
+465;146ZH;HTrol;VBZ Hess-Trolleybus;45;52
+466;147ZH;HTrol;VBZ Hess-Trolleybus;45;52
+467;148ZH;HTrol;VBZ Hess-Trolleybus;45;52
+468;149ZH;HTrol;VBZ Hess-Trolleybus;45;52
+996;14AT;ATE SB;ATE Standardbus VBG;0;0
+916;14LI;Sbus;VBZ Standardbus;33;24
+469;150ZH;HTrol;VBZ Hess-Trolleybus;45;52
+470;151ZH;HTrol;VBZ Hess-Trolleybus;45;52
+471;152ZH;HTrol;VBZ Hess-Trolleybus;45;52
+472;153ZH;HTrol;VBZ Hess-Trolleybus;45;52
+473;154ZH;HTrol;VBZ Hess-Trolleybus;45;52
+474;155ZH;HTrol;VBZ Hess-Trolleybus;45;52
+475;156ZH;HTrol;VBZ Hess-Trolleybus;45;52
+476;157ZH;HTrol;VBZ Hess-Trolleybus;45;52
+477;158ZH;HTrol;VBZ Hess-Trolleybus;45;52
+478;159ZH;HTrol;VBZ Hess-Trolleybus;45;52
+997;15AT;ATE SB;ATE Standardbus VBG;0;0
+917;15LI;Sbus;VBZ Standardbus;33;24
+978;160ZH;HTrol;VBZ Hess-Trolleybus;45;52
+479;161ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1141;162ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1142;163ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1135;164ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1136;165ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1137;166ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1138;167ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1139;168ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1140;169ZH;HTrol;VBZ Hess-Trolleybus;45;52
+998;16AT;ATE SB;ATE Standardbus VBG;0;0
+918;16LI;Sbus;VBZ Standardbus;33;24
+1129;170ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1130;171ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1131;172ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1132;173ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1133;174ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1134;175ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1123;176ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1124;177ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1125;178ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1126;179ZH;HTrol;VBZ Hess-Trolleybus;45;52
+999;17AT;ATE SB;ATE Standardbus VBG;0;0
+919;17LI;Sbus;VBZ Standardbus;33;24
+536;1802ZH;2.21m;VBZ Tram 2000 solo;50;54
+1127;180ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1128;181ZH;HTrol;VBZ Hess-Trolleybus;45;52
+1117;182ZH;HTrol;VBZ Hess-Trolleybus;45;52
+920;18LI;Sbus;VBZ Standardbus;33;24
+921;19LI;Sbus;VBZ Standardbus;33;24
+990;1AT;ATE SB;ATE Standardbus VBG;0;0
+537;2001ZH;2.21m;VBZ Tram 2000 solo;50;54
+538;2002ZH;2.21m;VBZ Tram 2000 solo;50;54
+539;2003ZH;2.21m;VBZ Tram 2000 solo;50;54
+540;2004ZH;2.21m;VBZ Tram 2000 solo;50;54
+541;2005ZH;2.21m;VBZ Tram 2000 solo;50;54
+959;2006ZH;2.21m;VBZ Tram 2000 solo;50;54
+542;2007ZH;2.21m;VBZ Tram 2000 solo;50;54
+543;2008ZH;2.21m;VBZ Tram 2000 solo;50;54
+544;2009ZH;2.21m;VBZ Tram 2000 solo;50;54
+545;2010ZH;2.21m;VBZ Tram 2000 solo;50;54
+546;2011ZH;2.21m;VBZ Tram 2000 solo;50;54
+547;2012ZH;2.21m;VBZ Tram 2000 solo;50;54
+548;2013ZH;2.21m;VBZ Tram 2000 solo;50;54
+549;2014ZH;2.21m;VBZ Tram 2000 solo;50;54
+550;2015ZH;2.21m;VBZ Tram 2000 solo;50;54
+551;2016ZH;2.21m;VBZ Tram 2000 solo;50;54
+552;2017ZH;2.21m;VBZ Tram 2000 solo;50;54
+553;2018ZH;2.21m;VBZ Tram 2000 solo;50;54
+554;2019ZH;2.21m;VBZ Tram 2000 solo;50;54
+981;2020ZH;2.21m;VBZ Tram 2000 solo;50;54
+555;2021ZH;2.21m;VBZ Tram 2000 solo;50;54
+556;2022ZH;2.21m;VBZ Tram 2000 solo;50;54
+557;2023ZH;2.21m;VBZ Tram 2000 solo;50;54
+558;2024ZH;2.21m;VBZ Tram 2000 solo;50;54
+559;2025ZH;2.21m;VBZ Tram 2000 solo;50;54
+947;2026ZH;2.21m;VBZ Tram 2000 solo;50;54
+560;2027ZH;2.21m;VBZ Tram 2000 solo;50;54
+561;2028ZH;2.21m;VBZ Tram 2000 solo;50;54
+562;2029ZH;2.21m;VBZ Tram 2000 solo;50;54
+960;2030ZH;2.21m;VBZ Tram 2000 solo;50;54
+563;2031ZH;2.21m;VBZ Tram 2000 solo;50;54
+564;2032ZH;2.21m;VBZ Tram 2000 solo;50;54
+565;2033ZH;2.21m;VBZ Tram 2000 solo;50;54
+566;2034ZH;2.21m;VBZ Tram 2000 solo;50;54
+567;2035ZH;2.21m;VBZ Tram 2000 solo;50;54
+568;2036ZH;2.21m;VBZ Tram 2000 solo;50;54
+569;2037ZH;2.21m;VBZ Tram 2000 solo;50;54
+570;2038ZH;2.21m;VBZ Tram 2000 solo;50;54
+571;2039ZH;2.21m;VBZ Tram 2000 solo;50;54
+572;2040ZH;2.21m;VBZ Tram 2000 solo;50;54
+573;2041ZH;2.21m;VBZ Tram 2000 solo;50;54
+574;2042ZH;2.21m;VBZ Tram 2000 solo;50;54
+575;2043ZH;2.21m;VBZ Tram 2000 solo;50;54
+576;2044ZH;2.21m;VBZ Tram 2000 solo;50;54
+577;2045ZH;2.21m;VBZ Tram 2000 solo;50;54
+578;2046ZH;2.21m;VBZ Tram 2000 solo;50;54
+698;2047ZH;2.21m;VBZ Tram 2000 solo;50;54
+699;2048ZH;2.21m;VBZ Tram 2000 solo;50;54
+700;2049ZH;2.21m;VBZ Tram 2000 solo;50;54
+701;2050ZH;2.21m;VBZ Tram 2000 solo;50;54
+702;2051ZH;2.21m;VBZ Tram 2000 solo;50;54
+703;2052ZH;2.21m;VBZ Tram 2000 solo;50;54
+704;2053ZH;2.21m;VBZ Tram 2000 solo;50;54
+705;2054ZH;2.21m;VBZ Tram 2000 solo;50;54
+706;2055ZH;2.21m;VBZ Tram 2000 solo;50;54
+707;2056ZH;2.21m;VBZ Tram 2000 solo;50;54
+708;2057ZH;2.21m;VBZ Tram 2000 solo;50;54
+709;2058ZH;2.21m;VBZ Tram 2000 solo;50;54
+710;2059ZH;2.21m;VBZ Tram 2000 solo;50;54
+711;2061ZH;2.21m;VBZ Tram 2000 solo;50;54
+961;2062ZH;2.21m;VBZ Tram 2000 solo;50;54
+712;2063ZH;2.21m;VBZ Tram 2000 solo;50;54
+713;2064ZH;2.21m;VBZ Tram 2000 solo;50;54
+714;2065ZH;2.21m;VBZ Tram 2000 solo;50;54
+715;2066ZH;2.21m;VBZ Tram 2000 solo;50;54
+716;2067ZH;2.21m;VBZ Tram 2000 solo;50;54
+717;2068ZH;2.21m;VBZ Tram 2000 solo;50;54
+718;2069ZH;2.21m;VBZ Tram 2000 solo;50;54
+719;2070ZH;2.21m;VBZ Tram 2000 solo;50;54
+720;2071ZH;2.21m;VBZ Tram 2000 solo;50;54
+721;2072ZH;2.21m;VBZ Tram 2000 solo;50;54
+722;2073ZH;2.21m;VBZ Tram 2000 solo;50;54
+982;2074ZH;2.21m;VBZ Tram 2000 solo;50;54
+723;2075ZH;2.21m;VBZ Tram 2000 solo;50;54
+724;2076ZH;2.21m;VBZ Tram 2000 solo;50;54
+725;2077ZH;2.21m;VBZ Tram 2000 solo;50;54
+726;2078ZH;2.21m;VBZ Tram 2000 solo;50;54
+727;2079ZH;2.21m;VBZ Tram 2000 solo;50;54
+728;2080ZH;2.21m;VBZ Tram 2000 solo;50;54
+729;2081ZH;2.21m;VBZ Tram 2000 solo;50;54
+730;2082ZH;2.21m;VBZ Tram 2000 solo;50;54
+731;2083ZH;2.21m;VBZ Tram 2000 solo;50;54
+732;2084ZH;2.21m;VBZ Tram 2000 solo;50;54
+962;2085ZH;2.21m;VBZ Tram 2000 solo;50;54
+733;2086ZH;2.21m;VBZ Tram 2000 solo;50;54
+734;2087ZH;2.21m;VBZ Tram 2000 solo;50;54
+735;2088ZH;2.21m;VBZ Tram 2000 solo;50;54
+736;2089ZH;2.21m;VBZ Tram 2000 solo;50;54
+948;2090ZH;2.21m;VBZ Tram 2000 solo;50;54
+737;2091ZH;2.21m;VBZ Tram 2000 solo;50;54
+738;2092ZH;2.21m;VBZ Tram 2000 solo;50;54
+739;2093ZH;2.21m;VBZ Tram 2000 solo;50;54
+740;2094ZH;2.21m;VBZ Tram 2000 solo;50;54
+741;2095ZH;2.21m;VBZ Tram 2000 solo;50;54
+742;2096ZH;2.21m;VBZ Tram 2000 solo;50;54
+743;2097ZH;2.21m;VBZ Tram 2000 solo;50;54
+744;2098ZH;2.21m;VBZ Tram 2000 solo;50;54
+745;2099ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+922;20LI;Sbus;VBZ Standardbus;33;24
+746;2100ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+747;2101ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+748;2102ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+749;2103ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+750;2104ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+751;2105ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+752;2106ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+753;2107ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+754;2108ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+963;2109ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+755;2110ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+756;2111ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+949;2112ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+983;2113ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+757;2114ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+758;2115ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+759;2116ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+760;2117ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+761;2118ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+762;2119ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+763;2120ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+764;2121ZH;Sänfte;VBZ Tram 2000 Sänfte;68;75
+923;21LI;Sbus;VBZ Standardbus;33;24
+924;22LI;Sbus;VBZ Standardbus;33;24
+765;2301ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+964;2302ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+766;2303ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+767;2304ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+768;2305ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+769;2306ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+770;2307ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+771;2308ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+772;2309ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+773;2310ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+774;2311ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+775;2312ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+776;2313ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+777;2314ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+778;2315ZH;2.21m;VBZ Tram 2000 Anhänger;50;57
+925;23LI;Sbus;VBZ Standardbus;33;24
+779;2401ZH;2.21m;VBZ Tram 2000 Pony;35;41
+780;2402ZH;2.21m;VBZ Tram 2000 Pony;35;41
+781;2403ZH;2.21m;VBZ Tram 2000 Pony;35;41
+782;2404ZH;2.21m;VBZ Tram 2000 Pony;35;41
+783;2405ZH;2.21m;VBZ Tram 2000 Pony;35;41
+784;2406ZH;2.21m;VBZ Tram 2000 Pony;35;41
+785;2407ZH;2.21m;VBZ Tram 2000 Pony;35;41
+786;2408ZH;2.21m;VBZ Tram 2000 Pony;35;41
+787;2409ZH;2.21m;VBZ Tram 2000 Pony;35;41
+965;2410ZH;2.21m;VBZ Tram 2000 Pony;35;41
+788;2411ZH;2.21m;VBZ Tram 2000 Pony;35;41
+789;2412ZH;2.21m;VBZ Tram 2000 Pony;35;41
+790;2413ZH;2.21m;VBZ Tram 2000 Pony;35;41
+791;2414ZH;2.21m;VBZ Tram 2000 Pony;35;41
+792;2415ZH;2.21m;VBZ Tram 2000 Pony;35;41
+793;2416ZH;2.21m;VBZ Tram 2000 Pony;35;41
+794;2417ZH;2.21m;VBZ Tram 2000 Pony;35;41
+795;2418ZH;2.21m;VBZ Tram 2000 Pony;35;41
+796;2419ZH;2.21m;VBZ Tram 2000 Pony;35;41
+797;2420ZH;2.21m;VBZ Tram 2000 Pony;35;41
+798;2421ZH;2.21m;VBZ Tram 2000 Pony;35;41
+799;2422ZH;2.21m;VBZ Tram 2000 Pony;35;41
+800;2423ZH;2.21m;VBZ Tram 2000 Pony;35;41
+801;2424ZH;2.21m;VBZ Tram 2000 Pony;35;41
+802;2425ZH;2.21m;VBZ Tram 2000 Pony;35;41
+803;2426ZH;2.21m;VBZ Tram 2000 Pony;35;41
+804;2427ZH;2.21m;VBZ Tram 2000 Pony;35;41
+805;2428ZH;2.21m;VBZ Tram 2000 Pony;35;41
+806;2429ZH;2.21m;VBZ Tram 2000 Pony;35;41
+984;2430ZH;2.21m;VBZ Tram 2000 Pony;35;41
+807;2431ZH;2.21m;VBZ Tram 2000 Pony;35;41
+808;2432ZH;2.21m;VBZ Tram 2000 Pony;35;41
+966;2433ZH;2.21m;VBZ Tram 2000 Pony;35;41
+809;2434ZH;2.21m;VBZ Tram 2000 Pony;35;41
+810;2435ZH;2.21m;VBZ Tram 2000 Pony;35;41
+632;244ZH;Sbus;VBZ Standardbus Centroliner;33;24
+633;245ZH;Sbus;VBZ Standardbus Centroliner;33;24
+634;246ZH;Sbus;VBZ Standardbus Centroliner;33;24
+635;247ZH;Sbus;VBZ Standardbus Centroliner;33;24
+973;248ZH;Sbus;VBZ Standardbus Centroliner;33;24
+636;249ZH;Sbus;VBZ Standardbus Centroliner;33;24
+926;24LI;Sbus;VBZ Standardbus;33;24
+637;250ZH;Sbus;VBZ Standardbus Centroliner;33;24
+638;251ZH;Sbus;VBZ Standardbus Centroliner;33;24
+639;252ZH;Sbus;VBZ Standardbus Centroliner;33;24
+640;253ZH;Sbus;VBZ Standardbus Centroliner;33;24
+641;254ZH;Sbus;VBZ Standardbus Centroliner;33;24
+642;255ZH;Sbus;VBZ Standardbus Centroliner;33;24
+643;256ZH;Sbus;VBZ Standardbus Centroliner;33;24
+974;257ZH;Sbus;VBZ Standardbus Centroliner;33;24
+927;25LI;Sbus;VBZ Standardbus;33;24
+945;261ZH;Sbus;VBZ Standardbus Centroliner;33;24
+644;262ZH;Sbus;VBZ Standardbus Centroliner;33;24
+645;263ZH;Sbus;VBZ Standardbus Centroliner;33;24
+656;264ZH;Sbus;VBZ Standardbus Centroliner;33;24
+657;265ZH;Sbus;VBZ Standardbus Centroliner;33;24
+658;266ZH;Sbus;VBZ Standardbus Centroliner;33;24
+659;267ZH;Sbus;VBZ Standardbus Centroliner;33;24
+660;268ZH;Sbus;VBZ Standardbus Centroliner;33;24
+975;269ZH;Sbus;VBZ Standardbus Centroliner;33;24
+928;26LI;Sbus;VBZ Standardbus;33;24
+661;270ZH;Sbus;VBZ Standardbus Centroliner;33;24
+662;271ZH;Sbus;VBZ Standardbus Centroliner;33;24
+663;272ZH;Sbus;VBZ Standardbus Centroliner;33;24
+664;273ZH;Sbus;VBZ Standardbus Centroliner;33;24
+665;274ZH;Sbus;VBZ Standardbus Centroliner;33;24
+666;275ZH;Sbus;VBZ Standardbus Centroliner;33;24
+667;276ZH;Sbus;VBZ Standardbus Centroliner;33;24
+668;277ZH;Sbus;VBZ Standardbus Centroliner;33;24
+669;278ZH;Sbus;VBZ Standardbus Centroliner;33;24
+670;279ZH;Sbus;VBZ Standardbus Centroliner;33;24
+929;27LI;Gbus;VBZ Gelenkbus;43;41
+671;280ZH;Sbus;VBZ Standardbus Centroliner;33;24
+672;281ZH;Sbus;VBZ Standardbus Centroliner;33;24
+673;282ZH;Sbus;VBZ Standardbus Centroliner;33;24
+674;283ZH;Sbus;VBZ Standardbus Centroliner;33;24
+991;2AT;ATE SB;ATE Standardbus VBG;0;0
+811;3001ZH;Cobra;VBZ Tram Cobra;90;113
+812;3002ZH;Cobra;VBZ Tram Cobra;90;113
+950;3003ZH;Cobra;VBZ Tram Cobra;90;113
+813;3004ZH;Cobra;VBZ Tram Cobra;90;113
+814;3005ZH;Cobra;VBZ Tram Cobra;90;113
+815;3006ZH;Cobra;VBZ Tram Cobra;90;113
+816;3007ZH;Cobra;VBZ Tram Cobra;90;113
+817;3008ZH;Cobra;VBZ Tram Cobra;90;113
+818;3009ZH;Cobra;VBZ Tram Cobra;90;113
+819;3010ZH;Cobra;VBZ Tram Cobra;90;113
+1029;3011HW;MAXI;MAXI;17;7
+820;3011ZH;Cobra;VBZ Tram Cobra;90;113
+821;3012ZH;Cobra;VBZ Tram Cobra;90;113
+822;3013ZH;Cobra;VBZ Tram Cobra;90;113
+823;3014ZH;Cobra;VBZ Tram Cobra;90;113
+824;3015ZH;Cobra;VBZ Tram Cobra;90;113
+825;3016ZH;Cobra;VBZ Tram Cobra;90;113
+826;3017ZH;Cobra;VBZ Tram Cobra;90;113
+827;3018ZH;Cobra;VBZ Tram Cobra;90;113
+828;3019ZH;Cobra;VBZ Tram Cobra;90;113
+582;301ZH;MBus;VBZ Midibus Neoplan;19;17
+829;3020ZH;Cobra;VBZ Tram Cobra;90;113
+830;3021ZH;Cobra;VBZ Tram Cobra;90;113
+967;3022ZH;Cobra;VBZ Tram Cobra;90;113
+831;3023ZH;Cobra;VBZ Tram Cobra;90;113
+832;3024ZH;Cobra;VBZ Tram Cobra;90;113
+833;3025ZH;Cobra;VBZ Tram Cobra;90;113
+834;3026ZH;Cobra;VBZ Tram Cobra;90;113
+835;3027ZH;Cobra;VBZ Tram Cobra;90;113
+836;3028ZH;Cobra;VBZ Tram Cobra;90;113
+968;3029ZH;Cobra;VBZ Tram Cobra;90;113
+620;302ZH;MBus;VBZ Midibus Neoplan;19;17
+837;3030ZH;Cobra;VBZ Tram Cobra;90;113
+838;3031ZH;Cobra;VBZ Tram Cobra;90;113
+839;3032ZH;Cobra;VBZ Tram Cobra;90;113
+840;3033ZH;Cobra;VBZ Tram Cobra;90;113
+841;3034ZH;Cobra;VBZ Tram Cobra;90;113
+842;3035ZH;Cobra;VBZ Tram Cobra;90;113
+843;3036ZH;Cobra;VBZ Tram Cobra;90;113
+844;3037ZH;Cobra;VBZ Tram Cobra;90;113
+845;3038ZH;Cobra;VBZ Tram Cobra;90;113
+846;3039ZH;Cobra;VBZ Tram Cobra;90;113
+621;303ZH;MBus;VBZ Midibus Neoplan;19;17
+847;3040ZH;Cobra;VBZ Tram Cobra;90;113
+848;3041ZH;Cobra;VBZ Tram Cobra;90;113
+849;3042ZH;Cobra;VBZ Tram Cobra;90;113
+850;3043ZH;Cobra;VBZ Tram Cobra;90;113
+851;3044ZH;Cobra;VBZ Tram Cobra;90;113
+852;3045ZH;Cobra;VBZ Tram Cobra;90;113
+853;3046ZH;Cobra;VBZ Tram Cobra;90;113
+854;3047ZH;Cobra;VBZ Tram Cobra;90;113
+855;3048ZH;Cobra;VBZ Tram Cobra;90;113
+856;3049ZH;Cobra;VBZ Tram Cobra;90;113
+622;304ZH;MBus;VBZ Midibus Neoplan;19;17
+857;3050ZH;Cobra;VBZ Tram Cobra;90;113
+858;3051ZH;Cobra;VBZ Tram Cobra;90;113
+969;3052ZH;Cobra;VBZ Tram Cobra;90;113
+859;3053ZH;Cobra;VBZ Tram Cobra;90;113
+985;3054ZH;Cobra;VBZ Tram Cobra;90;113
+860;3055ZH;Cobra;VBZ Tram Cobra;90;113
+861;3056ZH;Cobra;VBZ Tram Cobra;90;113
+862;3057ZH;Cobra;VBZ Tram Cobra;90;113
+863;3058ZH;Cobra;VBZ Tram Cobra;90;113
+864;3059ZH;Cobra;VBZ Tram Cobra;90;113
+623;305ZH;MBus;VBZ Midibus Neoplan;19;17
+865;3060ZH;Cobra;VBZ Tram Cobra;90;113
+866;3061ZH;Cobra;VBZ Tram Cobra;90;113
+867;3062ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+868;3063ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+869;3064ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+870;3065ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+871;3066ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+872;3067ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+873;3068ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+874;3069ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+624;306ZH;MBus;VBZ Midibus Neoplan;19;17
+875;3070ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+876;3071ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+877;3072ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+878;3073ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+879;3074ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+1005;3075ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+1014;3076ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+1015;3077ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+1016;3078ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+1004;3079ZH;Co10;VBZ Tram Cobra Linie 10;90;113
+625;307ZH;MBus;VBZ Midibus Neoplan;19;17
+1007;3080ZH;Cobra;VBZ Tram Cobra;90;113
+1017;3081ZH;Cobra;VBZ Tram Cobra;90;113
+1008;3082ZH;Cobra;VBZ Tram Cobra;90;113
+1009;3083ZH;Cobra;VBZ Tram Cobra;90;113
+1010;3084ZH;Cobra;VBZ Tram Cobra;90;113
+1011;3085ZH;Cobra;VBZ Tram Cobra;90;113
+1012;3086ZH;Cobra;VBZ Tram Cobra;90;113
+1013;3087ZH;Cobra;VBZ Tram Cobra;90;113
+1006;3088ZH;Cobra;VBZ Tram Cobra;90;113
+626;308ZH;MBus;VBZ Midibus Neoplan;19;17
+1148;309ZH;MBus;VBZ Midibus Neoplan;19;17
+1087;30AT;ATE GB;ATE Gelenkbus VBG;0;0
+460;310ZH;MBus;VBZ Midibus MAN;24;17
+461;311ZH;MBus;VBZ Midibus MAN;24;17
+462;312ZH;MBus;VBZ Midibus MAN;24;17
+463;313ZH;MBus;VBZ Midibus MAN;24;17
+1088;31AT;ATE GB;ATE Gelenkbus VBG;0;0
+890;31AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+930;31LI;Gbus;VBZ Gelenkbus;43;41
+931;32LI;Gbus;VBZ Gelenkbus;43;41
+1061;331ZH;MBus;VBZ Midibus MAN;24;17
+1062;332ZH;MBus;VBZ Midibus MAN;24;17
+1063;333ZH;MBus;VBZ Midibus MAN;24;17
+1059;334ZH;MBus;VBZ Midibus MAN;24;17
+1060;335ZH;MBus;VBZ Midibus MAN;24;17
+1056;336ZH;MBus;VBZ Midibus MAN;24;17
+1057;337ZH;MBus;VBZ Midibus MAN;24;17
+1058;338ZH;MBus;VBZ Midibus MAN;24;17
+891;33AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+932;33LI;Gbus;VBZ Gelenkbus;43;41
+933;35LI;Sbus;VBZ Standardbus;33;24
+934;36LI;Gbus;VBZ Gelenkbus;43;41
+892;37AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+992;3AT;ATE SB;ATE Standardbus VBG;0;0
+496;401ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+497;402ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+498;403ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+499;404ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+500;405ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+940;4068ZH;Cobra;VBZ Tram Cobra;90;113
+957;406ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+501;407ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+979;408ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+502;409ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+899;40AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+503;410ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+504;411ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+946;412ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+505;413ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+506;414ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+507;415ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+508;416ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+509;417ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+510;418ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+511;419ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+512;420ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+513;421ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+448;422ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+958;423ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+980;424ZH;Gbus;VBZ Gelenkbus Citaro;43;41
+893;42AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+894;44AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+895;45AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+896;46AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+993;4AT;ATE SB;ATE Standardbus VBG;0;0
+906;4LI;Sbus;VBZ Standardbus;33;24
+897;50AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+646;516ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+647;517ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+648;518ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+649;519ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+898;51AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+650;520ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+651;521ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+652;522ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+653;523ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+654;524ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+655;525ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+675;526ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+676;527ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+677;528ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+679;529ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+900;52AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+678;530ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+680;531ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+681;532ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+684;533ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+685;534ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+686;535ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+687;536ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+976;537ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+682;538ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+683;539ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+901;53AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+688;540ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+689;541ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+690;542ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+954;543ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+692;544ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+693;545ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+694;546ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+695;547ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+696;548ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+697;549ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+902;54AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+449;550ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+450;551ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+451;552ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+452;553ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+453;554ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+454;555ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+455;556ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+977;557ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+456;558ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+457;559ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+903;55AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+458;560ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+955;561ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+691;562ZH;Gbus;VBZ Gelenkbus Centroliner;48;50
+904;57AZ;AZZKSK;AZZK Standardbus mit Kasse;0;0
+628;589ZH;Gbus H;VBZ Gelenkbus Hochboden;43;66
+905;58AZ;AZZKGK;AZZK Gelenkbus mit Kasse;0;0
+944;590ZH;Gbus H;VBZ Gelenkbus Hochboden;43;66
+629;591ZH;Gbus H;VBZ Gelenkbus Hochboden;43;66
+630;592ZH;Gbus H;VBZ Gelenkbus Hochboden;43;66
+631;593ZH;Gbus H;VBZ Gelenkbus Hochboden;43;66
+907;5LI;Sbus;VBZ Standardbus;33;24
+514;601ZH;Sbus;VBZ Standardbus Citaro;33;21
+515;602ZH;Sbus;VBZ Standardbus Citaro;33;21
+516;603ZH;Sbus;VBZ Standardbus Citaro;33;21
+517;604ZH;Sbus;VBZ Standardbus Citaro;33;21
+518;605ZH;Sbus;VBZ Standardbus Citaro;33;21
+519;606ZH;Sbus;VBZ Standardbus Citaro;33;21
+520;607ZH;Sbus;VBZ Standardbus Citaro;33;21
+521;608ZH;Sbus;VBZ Standardbus Citaro;33;21
+522;609ZH;Sbus;VBZ Standardbus Citaro;33;21
+1050;60AZ;AZZKGK;AZZK Gelenkbus mit Kasse;0;0
+523;610ZH;Sbus;VBZ Standardbus Citaro;33;21
+524;611ZH;Sbus;VBZ Standardbus Citaro;33;21
+525;612ZH;Sbus;VBZ Standardbus Citaro;33;21
+526;613ZH;Sbus;VBZ Standardbus Citaro;33;21
+527;614ZH;Sbus;VBZ Standardbus Citaro;33;21
+528;615ZH;Sbus;VBZ Standardbus Citaro;33;21
+529;616ZH;Sbus;VBZ Standardbus Citaro;33;21
+530;617ZH;Sbus;VBZ Standardbus Citaro;33;21
+531;618ZH;Sbus;VBZ Standardbus Citaro;33;21
+532;619ZH;Sbus;VBZ Standardbus Citaro;33;21
+956;61ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+480;62ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+481;63ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+482;64ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+483;65ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+484;66ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+485;67ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+486;68ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+487;69ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+989;6AT;ATE SB;ATE Standardbus VBG;0;0
+908;6LI;Sbus;VBZ Standardbus Citaro;33;21
+488;70ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+489;71ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+490;72ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+491;73ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+492;74ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+493;75ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+494;76ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+495;77ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1118;78ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1119;79ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1000;7AT;ATE SB;ATE Standardbus VBG;0;0
+909;7LI;Sbus;VBZ Standardbus Citaro;33;21
+1120;80ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1121;81ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1122;82ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1111;83ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1112;84ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1113;85ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1114;86ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1115;87ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1116;88ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1110;89ZH;DGTrol;VBZ Doppelgelenk-Trolleybus Longo;61;67
+1001;8AT;ATE SB;ATE Standardbus VBG;0;0
+910;8LI;Sbus;VBZ Standardbus Citaro;33;21
+1002;9AT;ATE SB;ATE Standardbus VBG;0;0
+911;9LI;Sbus;VBZ Standardbus Citaro;33;21

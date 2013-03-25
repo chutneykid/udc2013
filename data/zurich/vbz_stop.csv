@@ -1,0 +1,755 @@
+stopId;stopNumber;stopNameShort;stopName
+1938;619;CENT;Zürich, Central
+2336;1265;HATS;Dietikon, Hätschen
+2104;1845;OPER;Zürich, Opernhaus
+2757;1106;HABA;Küsnacht ZH, Hallenbad
+1500;2547;BLEI;Zürich, Bahnhof Leimbach
+2740;7;AARG;Zürich, Aargauerstrasse
+2021;1039;GRAU;Dietikon, Grünau
+2723;1273;DHOG;Dübendorf, Högler
+2036;2984;OBEE;Oberengstringen, Zentrum
+2855;6600;IMBR;Aesch bei Maur, Im Brünneli
+2506;3774;BWOB;Zürich, Bhf Wollishofen (Bus)
+2557;6625;MERI;Rüschlikon, Merisbrunnen
+2640;2385;SIEM;Zürich, Siemens
+2440;901;FRDR;Zürich, Friedrichstrasse
+1885;6255;BOEN;Zürich, Bahnhof Oerlikon Nord
+1553;6448;EGGR;Rüschlikon, Eggrain
+2655;470;BESE;Zürich, Besenrainstrasse
+2804;2306;SCHT;Zürich, Schwert
+2538;592;BAEN;Zürich, Bändliweg
+2738;3018;ZWIN;Zürich, Zwinglihaus
+1370;2986;ZREG07;Regensdorf, Zentrum
+2370;2384;SCEN;Spreitenbach, Shopping Center
+2453;3764;MAXB;Zürich, Max-Bill-Platz
+2055;6261;STHA;Dietikon, Stadthalle Ost
+1517;2751;USNO;Unterengstringen, Sennenbüel N
+2321;8812;HIE99;Hinteregg
+2121;421;BALG;Zürich, Balgrist
+2670;1488;BKUE;Küsnacht ZH, Bahnhof
+2491;6694;WEST;Dietikon, Weidstrasse
+2625;2461;STAD;Zürich, Stadtgrenze
+2293;2924;WINK;Zürich, Winkelriedstrasse
+1532;1215;HIRS;Zürich, Hirschwiesenstrasse
+2459;947;FAEL;Fällanden, Gemeindehaus
+2425;6628;MUEH;Zürich, Mühlacker
+2634;2298;SHOL;Zürich, Schwandenholz
+2525;1723;FNEU;Fällanden, Neuhus
+2257;6459;ZOER;Zürich, Oerlikerhus
+2895;3368;FWIG;Fällanden, Wigarten
+2795;2040;RWIE;Zollikon, Rebwiesstrasse
+2434;1362;KAPF;Zürich, Kapfstrasse
+2566;3706;AHOS;Zürich, Althoos
+2368;548;BRUS;Fahrweid, Brunaustrasse
+1521;589;BAEC;Kilchberg ZH, Bächlerstrasse
+2034;2982;ZENT;Geroldswil, Zentrum
+2827;898;FUET;Zürich, Friedhof Uetliberg
+1934;1275;SEPL;Zürich, Seebacherplatz
+2761;3788;MAIL;Zürich, Maillartstrasse
+2870;1251;HOTT;Zürich, Hottingerplatz
+2561;3445;BIBE;Zürich, Bircher-Benner
+2893;6759;SBAU;Zürich, Schiffbau
+2770;1026;GRIM;Zürich, Grimselstrasse
+2366;3727;GLAN;Glanzenberg, Bahnhof
+2023;6055;DEP2;Zürich, Depot 2 Wollishofen
+2825;896;FSWA;Zürich, Friedhof Schwandenholz
+2759;3787;BUHO;Zürich, Buchholz
+2298;2014;QUEL;Zürich, Quellenstrasse
+2427;1527;LEEA;Ebmatingen, Leeacherstrasse
+2736;3772;WACH;Zürich, Wiesliacher
+2636;1292;HUER;Zürich, Hürstholz
+2693;1753;NUER;Zürich, Nürenbergstrasse
+1525;2017;RADI;Zürich, Radiostudio
+2422;1179;HERZ;Zürich, Herzogenmühlestrasse
+2771;868;FLUE;Zürich, Flühgasse
+2339;1094;OHAL;Oetwil an der Limmat, Halde
+2737;2859;WEIK;Kilchberg ZH, Weinbergstrasse
+2671;2831;WART;Zürich, Wartau
+2471;2335;SHUA;Fällanden, Schützenhaus
+2588;1277;HSTR;Zollikon, Höhestrasse
+1552;6447;LRAI;Rüschlikon, Loorain
+2456;2688;TULP;Zürich, Tulpenstrasse
+2356;1620;MATT;Zürich, Mattenhof
+1518;2580;STOG;Kilchberg ZH, Stockengut
+2537;1581;LOOG;Zürich, Loogarten
+2437;455;BERH;Zürich, Berghaldenstrasse
+1501;2294;SCHW;Zürich, Schwamendingerplatz
+2520;1690;MULL;Schlieren, Mülligen
+2320;705;DOZE;Zumikon, Dorfzentrum
+1452;994;BGLA07;Glattbrugg, Bahnhof
+2086;435;BECK;Zürich, Beckenhof
+1854;2550;SAAL;Zürich, Saalsporthalle
+2120;2166;SCHE;Scheuren, Station
+2020;1964;OPOS;Oetwil an der Limmat, Post
+2824;2142;SBBW;Zürich, SBB-Werkstätte
+2137;2612;SUNN;Zürich, Sunnau
+2856;410;BSRU;Rüschlikon, Schlossstrasse
+2673;1745;NORS;Zürich, Nordstrasse
+2788;3041;BTIE;Zürich, Bahnhof Tiefenbrunnen
+2573;1611;MAIE;Zürich, Maienweg
+2490;6693;DGYR;Dietikon, Gyrhalden
+2035;2054;RAUG;Zürich, Rennweg
+2556;516;BOGL;Küsnacht ZH, Boglerenstrasse
+2705;927;FOER;Zürich, Förrlibuckstrasse
+2700;6019;WAFB;Zürich, Waffenplatz-/Bederstr.
+2093;8810;SCH99;Scheuren
+2791;3045;ZUER;Zürich, Zürichbergstrasse
+1366;2983;ZGLA;Zentrum Glatt
+2334;3183;AEGW;Weiningen ZH, Aegelsee
+2600;2451;SPYR;Zürich, Spyriplatz
+2500;6782;KBRE;Kilchberg ZH, Breitloo
+2457;767;EINF;Zürich, Einfangstrasse
+2400;1911;PDUB;Dübendorf, Post
+1598;1259;HUNG;Zürich, Hungerbergstrasse
+2534;6003;SOLP;Zürich, Solidapark
+2091;8811;NHA99;Neuhaus bei Hinteregg
+2025;3044;BWOL;Zürich, Bhf Wollishofen (Tram)
+2332;1178;HWEG;Urdorf, Herweg
+1530;3796;MYTH;Kilchberg ZH, Mythenstrasse
+2100;8806;ZUMI99;Zumikon
+2300;6033;DEP8;Zürich, Depot 8 Oerlikon
+2532;716;DUNK;Zürich, Dunkelhölzli
+1557;3042;BWIE;Zürich, Bahnhof Wiedikon
+2198;944;GEER;Zürich, Geeringstrasse
+2559;3187;RSAU;Rüschlikon, Säumerstrasse
+2868;1162;HERD;Zürich, Herdernstrasse
+2327;3520;BRUL;Spreitenbach, Brüel
+2527;1234;BANL;Zürich, Bäckeranlage
+2593;3457;LERA;Zürich, Lerchenrain
+1723;2024;RAIW;Urdorf, Rainweg
+2677;489;GRUB;Zürich, Grubenstrasse
+2316;2575;BSTE;Zürich, Bahnhof Stettbach
+2250;3019;ZYPR;Zürich, Zypressenstrasse
+2843;2320;SCHG;Zürich, Schönauring
+1784;6682;RHOE07;Rümlang, Hörnlistrasse
+2050;1151;HEIM;Schlieren, Heimeliweg
+1741;1648;MITL;Zürich, Mittelleimbach
+2811;979;GIBL;Zürich, Giblenstrasse
+2007;1694;NASS;Schlieren, Nassacker
+1884;3154;MEHA;Zürich, Messe/Hallenstadion
+1907;1612;MANG;Zürich, Manegg
+2775;3797;ARAN;Zürich, Albisrank
+1873;845;FELS;Zürich, Felsenrainstrasse
+1541;412;BPLA;Zürich, Bahnhofplatz/HB
+2048;990;GJUC;Dietikon, Gjuchstrasse
+2786;1792;OBHU;Zollikerberg, Oberhueb
+2743;6117;SRIE;Zürich, Stierenried
+1773;2682;TRIS;Zürich, Triemlispital
+2039;1226;HACK;Dietikon, Hofacker
+2818;137;BACH;Zürich, Bachmattstrasse
+2248;1579;LOCH;Zürich, Lochergut
+2750;857;FWEG;Zürich, Fischerweg
+1539;2158;SPLA;Zürich, Schaffhauserplatz
+2518;1862;PAEN;Oberengstringen, Paradies
+2675;6009;RREB;Rüschlikon, Rebsteig
+2718;1007;GOLD;Zürich, Goldackerweg
+2552;2262;SORU;Kilchberg ZH, Schooren
+2850;2154;SANK;Kilchberg ZH, Sanatorium
+2441;908;FROB;Zürich, Frohburg
+2341;2440;SPIT;Urdorf, Spitzacker
+1571;872;FRAN;Zürich, Frankental
+2350;6462;IKEA;Spreitenbach, Ikea
+1580;88;ALTR;Zürich, Altried (Zone 10)
+2674;2834;SEER;Zürich, Seerose
+2860;1502;LAST;Zürich, Langensteinenstrasse
+2499;6781;KEMI;Kilchberg ZH, Emilienheim
+2803;884;FLAG;Zürich, Freilagerstrasse
+2274;1550;LETZ;Zürich, Letzistrasse
+2735;4;ZOOF;Zürich, Zoo/Forrenweid
+2042;2406;SOME;Dietikon, Sommerau
+2835;54;KALL;Küsnacht ZH, Allmend
+2649;1818;OBWA;Küsnacht ZH, Oberwacht
+1581;1176;HRTI07;Wallisellen, Herti
+1724;1868;PEST;Dietikon, Pestalozzi
+2099;3756;SZOL;Zollikerberg, Spital
+2360;3460;ASPS;Spreitenbach, Asp
+2617;2801;WAIH;Zürich, Waidhof
+2056;6262;DSIL;Dietikon, Silbern
+2474;2342;MSEE;Maur, See
+588;3027;FLUG07;Zürich Flughafen, Bahnhof
+2435;708;DREI;Zürich, Dreispitz
+2810;47;ALBR;Zürich, Albisrieden
+2449;1583;MLOR;Ebmatingen, Looren
+2710;2934;WINH;Zürich, Winzerhalde
+2106;8813;EGG99;Egg
+2492;6695;DLAE;Dietikon, Lätten
+1931;6461;GGLA07;Glattpark
+2610;1280;HOEB;Zürich, Hönggerberg
+2424;6627;ASPH;Zürich, Aspholz
+1906;1357;KALK;Zürich, Kalkbreite
+2653;3826;HASE;Zollikerberg, Hasenbart
+2510;2107;ROSW;Zürich, Roswiesen
+2467;1403;MKIR;Maur, Kirche
+2828;1310;IHUS;Zürich, Im Hüsli
+2599;3714;BINC;Zürich, Binz Center
+1531;2124;ROEM;Zürich, Römerhof
+2742;769;ELWA;Zürich, Elektrowatt
+2253;883;FREI;Zürich, Freihofstrasse
+2823;895;FHOE;Zürich, Friedhof Hönggerberg
+2840;3155;ALTW;Zürich, Schulhaus Altweg
+2857;1073;GUTS;Zürich, Gutstrasse
+2087;1468;KRON;Zürich, Kronenstrasse
+2774;2030;RATH;Zürich, Rathaus
+2589;3453;TECH;Zürich, Technopark
+2806;971;GERM;Zürich, Germaniastrasse
+2540;3022;BALT;Zürich, Bahnhof Altstetten
+2085;1522;LAUI;Zürich, Laubiweg
+2423;6626;BLUM;Zürich, Blumenfeldstrasse
+1504;1643;MIBU;Zürich, Milchbuck
+2623;459;BDOL;Zürich, Bergstation Dolderbahn
+2838;3151;APPE;Zürich, Appenzellerstrasse
+751;2758;UNTR07;Glattbrugg, Unterriet
+1770;8816;ESSL99;Esslingen
+2821;2140;RUET;Zürich, Rütihof
+2472;1160;HERB;Zürich, Herbstweg
+2687;2754;UNTM;Zürich, Untermoosstrasse
+2455;678;MDOR;Maur, Dorf
+2604;3717;CHIN;Zürich, Chinagarten
+2438;713;DRUS;Zürich, Drusbergstrasse
+2621;3469;HOFS;Zürich, Hofstrasse
+2387;3822;BKIS;Killwangen, Bahnhof
+2038;2313;SBAC;Dietikon, Schäflibach
+2891;493;BINZ;Zürich, Binz
+2287;1557;LIMM;Zürich, Limmatplatz
+2562;3449;BIRC;Zürich, Birchstrasse
+1543;1334;IRCH;Zürich, Universität Irchel
+1729;3378;PTHA01;Thalwil, Post
+2061;2085;RIEW;Bergdietikon, Rietwies
+2665;2659;THUJ;Zürich, Thujastrasse
+1526;1018;GOBI;Kilchberg ZH, Gottlieb-Binder
+2047;2411;SONN;Zürich, Sonneggstrasse
+2648;3566;SHOE;Zürich, Schützenhaus Höngg
+2262;1366;SIHP;Zürich, Sihlpost
+2462;1873;PMUE;Pfaffhausen, Müseren
+2798;3134;MASC;Maur, Aschbach
+2397;6586;CESP;Spreitenb, Center Spreitenbach
+2380;550;BRUG;Schlieren, Brunngasse
+2729;1590;LUEG;Zürich, Luegisland
+2079;6660;DGIE07;Dübendorf, Giessen
+1475;2422;DBRE;Dübendorf, Breitibach
+2294;1667;MUFG;Zürich, Museum für Gestaltung
+2497;2850;WELI;Wangen, Weidli
+2498;6780;KOBE;Kilchberg ZH, Obere Hornhalde
+2698;2671;TOBE;Zürich, Tobelhof
+2747;1013;GOHA;Zollikon, Goldhaldenplatz
+2847;6250;HIMM;Zürich, Himmeri
+2730;1592;LUGG;Zürich, Luggwegstrasse
+2615;1286;HOES;Zürich, Höschgasse
+1829;3034;BOER;Zürich, Bahnhof Oerlikon
+2865;2168;SIHE;Küsnacht ZH, Schiedhaldenstr.
+2247;1386;KERN;Zürich, Kernstrasse
+2779;788;ENGV;Zürich, Englischviertelstrasse
+2112;8804;ZOB99;Zollikerberg
+1308;736;ETHZ;Zürich, ETH/Universitätsspital
+1843;3122;RIEH;Zürich, Riedhofstrasse
+1362;1303;IEBN;Zürich, Im Ebnet
+1511;1660;MORG;Zürich, Morgental
+2531;2276;BUCL;Zürich, Schulhaus Buchlern
+2731;3015;ZWIE;Zürich, Zwielplatz
+2545;893;FEIC;Zürich, Friedhof Eichbühl
+1895;416;BSTR;Zürich, Bahnhofstrasse/HB
+2027;2975;ZELG;Dübendorf, Zelglistrasse
+2013;6300;SBRE;Spreitenbach, Breiti
+2328;2436;SPLI;Schlieren, Spital Limmattal
+2028;125;AUSW;Weiningen ZH, Ausserdorf
+2414;2582;STOC;Zürich, Stockerstrasse
+2749;2104;ROSE;Zürich, Rosengartenstrasse
+1378;6507;RBAU07;Rümlang, Bäuler
+2581;1445;KNOR;Zürich, Krematorium Nordheim
+1510;6594;AHOR;Adliswil, Ahornweg
+1928;6460;ZFER;Zürich, Fernsehstudio
+2363;457;BERL;Bergdietikon, Bergli
+1542;413;BQUA;Zürich, Bahnhofquai/HB
+2446;6591;GAAN;Effretikon, Garage Andres
+1596;2346;SEEB;Zürich, Seebach
+1310;821;FARB;Zürich, Farbhof
+2478;1758;ODIE;Dietikon, Oberdorf
+2695;6015;WINS;Zürich, Winzerstrasse Süd
+309;3356;WalBiSt;Waldegg, Birmensdorferstrasse
+1259;1391;BKIL;Kilchberg ZH, Bahnhof
+2796;2043;RKIK;Küsnacht ZH, Reform. Kirche
+2295;580;BURG;Zürich, Burgwies
+1846;114;AUBR;Zürich, Aubrücke
+2696;3003;BZOL;Zollikon, Bahnhof
+2799;1889;PLAT;Zürich, Platte
+2496;6698;DWEI;Dietikon, Weinberg
+2095;8803;SZFB99;Spital Zollikerberg
+2078;6659;WNEU07;Wallisellen, Neugut
+2613;6648;WURZ;Zürich, Würzgraben
+2699;3005;ZOO;Zürich, Zoo
+2299;6031;DEP5;Zürich, Depot 5 Hard
+2385;729;DUEN;Bergdietikon, Dünni
+1638;28;BADL01;Adliswil, Bahnhof
+1406;1278;HOEL;Zürich, Hölderlinstrasse
+2542;2033;RAUH;Zürich, Rautihalde
+2628;715;DUFP;Zollikon, Dufourplatz
+2717;2598;STRI;Zürich, Strickhof
+2760;1863;PAKI;Kilchberg ZH, Paradiessteig
+2374;1726;NMAT;Urdorf, Neumattstrasse
+2142;6592;ADMO;Adliswil, Moos
+1524;3775;BEND;Kilchberg ZH, Bendlikon
+2703;6776;SANZ;Zürich, Schanzackerstrasse
+1538;2239;SLIM;Kilchberg ZH, Schlimbergstr.
+2778;2035;REBE;Zürich, Rebbergsteig
+1306;478;BEZI;Zürich, Bezirksgebäude
+2660;902;FRIB;Zürich, Friesenberg
+2460;694;DORF;Zürich, Dorflinde
+2535;1570;LIND;Zürich, Lindenplatz
+2635;800;EGUT;Zürich, Eschergutweg
+1499;1710;NEUB;Zürich, Neubühl
+2624;711;DREW;Zürich, Dreiwiesen
+2667;1483;KAES;Zürich, Käshaldenstrasse
+2160;6437;GRUT;Adliswil, Grüt
+2678;916;FRYM;Zürich, Frymannstrasse
+1706;1572;DLIN;Dübendorf, Lindenplatz
+2842;2998;ZIEL;Zürich, Zielweg
+2524;2551;BSEL;Zürich, Bahnhof Selnau
+2567;2618;SUSE;Zürich, Susenbergstrasse
+2410;743;ECKS;Unterengstringen, Eckstein
+2794;8993;DBER;Zürich, Depot Seilbahn Rigibli
+2276;465;BERN;Zürich, Berninaplatz
+2783;2120;RAEF;Zürich, Räffelstrasse
+2551;3522;SUKK;Zürich, Sukkulentensammlung
+2608;2289;SWEG;Zürich, Schumacherweg
+2033;2051;REIT;Schlieren, Reitmen
+2290;648;DAMM;Zürich, Dammweg
+2869;508;BLEU;Zürich, Bleulerstrasse
+2351;6297;HEIN;Urdorf, Heinrich-Stutz-Strasse
+2251;6030;DEP4;Zürich, Depot 4 Elisabethenstr
+2683;3587;BERU;Zürich, Berufswahlschule
+2583;610;BUEH;Küsnacht ZH, Bühlstrasse
+2526;1122;HARP;Zürich, Hardplatz
+2451;3760;HALO;Zürich, Hallenbad Oerlikon
+2569;1182;HESL;Küsnacht ZH, Hesligenstrasse
+2076;8808;NFOR99;Neue Forch
+1372;1228;HOFF;Dübendorf, Hoffnung
+2326;81;ALTZ;Dübendorf, Alterszentrum
+2426;3444;GLOK;Zürich, Glockenacker
+2383;1640;MICA;Zürich, Micafil
+1522;2767;BWEI;Urdorf Weihermatt, Bahnhof
+1565;440;BELL;Zürich, Bellevue
+2469;6511;BAFS;Zürich, Bahnhof Affoltern Süd
+2083;132;ZAUZ;Zürich, Auzelg
+1533;2304;KSCH;Kilchberg ZH, Schwelle
+2644;2815;WDOL;Zürich, Waldhaus Dolder
+2758;3786;OKEN;Zürich, Okenstrasse
+2701;2673;TOBL;Zürich, Toblerplatz
+2658;2398;SIHW;Zürich, Sihlweidstrasse
+2733;933;GART;Küsnacht ZH, Gartenstrasse
+2433;447;BENK;Ebmatingen, Benkelsteg
+2444;2836;WASE;Zürich, Waserstrasse
+1454;1156;HEIZ;Zürich, Heizenholz
+2576;1614;MANS;Zürich, Manesseplatz
+2476;838;FSTR;Schlieren, Feldstrasse
+2719;1008;GOLA;Zürich, Goldauerstrasse
+2358;1451;DKRE;Dübendorf, Kreuzbühl
+2015;6303;SINT;Spreitenbach, Interio
+2594;1532;LEIM;Zürich, Leimgrübelstrasse
+2694;3001;ORIO;Zürich, Orionstrasse
+2651;2907;WILD;Zürich, Wildbachstrasse
+2944;9999;VBG01;D'dorf, Bhf. Nord (Wangenstr.)
+2483;3590;SONU;Urdorf, Sonne
+2008;863;FLUP;Dübendorf, Flugplatz
+2669;824;FBST;Zollikon, Felbenstrasse
+2826;897;FSIH;Zürich, Friedhof Sihlfeld
+2858;1249;HORN;Kilchberg ZH, Hornhaldenstr.
+2833;53;ZALL;Zollikon, Allmend
+1908;1187;HEUR;Zürich, Heuried
+729;687;UitiDrf;Uitikon, Dorf
+2601;3715;BOST;Zürich, Bocklerstrasse
+2458;684;DORS;Schwerzenbach ZH, Dorf
+2801;3139;BRUP;Zürich, Brunaupark
+2558;3186;RUEB;Rüschlikon, Bahnhof
+2301;6035;GAR9;Zürich, Garage 9 Hagenholz
+2633;2722;UETL;Zürich, Uetlihof
+2533;542;BRIS;Zürich, Bristenstrasse
+2808;2899;WIES;Zürich, Wieslergasse
+2851;1320;IDEY;Zürich, In der Ey
+2401;1571;WLIN;Weiningen ZH, Lindenplatz
+1520;831;FEGG;Urdorf, Feldegg
+2322;8814;LWIE99;Langwies ZH
+2637;3470;HSTG;Zürich, Hölderlinsteig
+1503;1389;KIEN;Zürich, Kienastenwies
+2720;2852;WEID;Rüschlikon, Weidstrasse
+1686;641;CRUZ07;Regensdorf, Chrüzächer
+2488;586;BUTZ;Zürich, Butzenstrasse
+1437;632;VCHL07;Volketswil, Volkiland Chliriet
+2554;515;BODE;Rüschlikon, Bodengasse
+2505;935;GASO;Schlieren, Gasometerbrücke
+833;3254;HALL;Kilchberg ZH, Hallenbad
+2605;530;BRAN;Zürich, Brandschenkestrasse
+2854;1157;HELM;Zürich, Helmhaus
+2337;1266;WHAE;Wangen, Hätzelwisen
+2620;3466;FRST;Zürich, Freiestrasse
+2022;2128;ROES;Zürich, Röslistrasse
+2254;6425;ZW;Zürich, Zentralwerkstätte
+2486;757;EIHH;Kindhausen AG, Eichholz
+2454;1000;GLAU;Zürich, Glaubtenstrasse
+2105;8805;WAL99;Waltikon
+2773;6304;KOES;Zürich, Köschenrüti
+2873;1087;HADL;Zürich, Hadlaubstrasse
+2386;2732;UITI;Urdorf, Uitikonerstrasse
+2103;3002;ZOBE;Zollikerberg, Station
+1852;199;BEDE;Zürich, Bahnhof Enge/Bederstr.
+1537;2237;SZEN;Schlieren, Zentrum
+2622;1547;LETT;Zürich, Lettenstrasse
+2839;3153;JUCH;Zürich, Juchhof
+2822;2141;RUST;Schlieren, Rütistrasse
+2756;3029;HSBB;Zürich, Bahnhof Hardbrücke
+2607;1626;MEIE;Zürich, Meierhofplatz
+2800;3138;KABU;Zürich, Kappenbühlweg
+2468;2069;RIEG;Zürich, Riedgraben
+2591;2366;SEID;Zürich, Seidelhof
+2602;2452;SPYS;Zürich, Spyristeig
+2302;1100;HEGG;Zürich, Haldenegg
+2734;2858;WEIH;Zürich, Weihersteig
+2834;1316;IWIN;Zürich, Im Wingert
+2768;2113;RBRU;Zürich, Rudolf-Brun-Brücke
+1523;1595;LAEG;Zürich, Lägernstrasse
+2568;1356;KALB;Zürich, Kalchbühlweg
+2466;899;FWIT;Zürich, Friedhof Witikon
+2391;1731;NURD;Urdorf, Niederurdorf
+2861;2164;SCHZ;Zürich, Scheuchzerstrasse
+1959;3344;DSTA;Dietikon, Stadthaus
+2059;502;BIRM;Dietikon, Birmensdorferstrasse
+1398;3246;GIEB07;Glattbrugg, Giebeleichstrasse
+2766;2788;VOLT;Zürich, Voltastrasse
+2666;735;ETHH;Zürich, ETH Hönggerberg
+2627;2638;TALW;Zürich, Talwiesenstrasse
+2432;2622;SAGG;Pfaffhausen, Sängglen
+2057;414;BSTD;Dietikon, Bahnhofstrasse
+2661;903;FRIH;Zürich, Friesenberghalde
+2859;1075;GOES;Zumikon, Gössikon
+2802;2302;SHOF;Zürich, Schweighof
+2702;498;BIRD;Zürich, Birchdörfli
+2659;476;BEUG;Zollikon, Beugi
+2536;5001;BALN;Zürich, Bahnhof Altstetten N
+2836;1143;HEGA;Zürich, Hegianwandweg
+2748;2779;VOGE;Zürich, Vogelsangstrasse
+1443;1552;LEUT;Zürich, Leutschenbach
+2044;2238;SCHS;Urdorf, Schlierenstrasse
+2565;1354;JUGI;Zürich, Jugendherberge
+2362;2631;TAWI;Schlieren, Talacker-Windegg
+2111;3039;BSTA;Zürich, Bahnhof Stadelhofen
+1876;6217;PCEN;Zürich, Central Polybahn
+2580;2707;TUEF;Zürich, Tüffenwies
+2715;1006;GDOR;Gockhausen, Dorf
+2480;1759;OBDO;Oetwil an der Limmat, Oberdorf
+2815;1220;HIRZ;Zürich, Hirzenbach
+2411;748;EGGB;Oberengstringen, Eggbühl
+2529;1076;GUET;Zürich, Güterbahnhof
+2598;2450;SPRE;Zürich, Sprecherstrasse
+1679;2307;BSCH;Schwerzenbach ZH, Bahnhof
+2398;3748;STAK;Schlieren, Steinacker
+2329;6364;STIE;Wangen, Stierwisen
+2830;1311;IKLO;Zürich, Im Klösterli
+2429;1705;NEUA;Zürich, Neuaffoltern
+2848;2327;SUEB;Küsnacht ZH, Schübel
+2579;1441;PKAE;Zürich, Pflegezentr. Käferberg
+2679;2667;TITL;Zürich, Titlisstrasse
+2547;427;BASL;Zürich, Baslerstrasse
+2765;2956;WONE;Zürich, Wonnebergstrasse
+2630;718;TONA;Zürich, Toni-Areal
+1694;909;FROH07;Glattbrugg, Frohbühlstrasse
+2530;92;AMSU;Zürich, Am Suteracher
+2244;1364;KAPP;Zürich, Kappeli
+2029;2303;SWAK;Geroldswil, Schweizäcker
+2662;904;FRIE;Zürich, Friesenbergstrasse
+2107;8815;EMMA99;Emmat
+2777;3123;IMGU;Zürich, Im Gut
+1114;1627;MEHO;Dübendorf, Meiershofstrasse
+2482;1587;LUCH;Zürich, Luchswiesen
+2711;2935;WINZ;Zürich, Winzerstrasse
+2752;2108;ROTB;Zürich, Rotbuchstrasse
+2082;3785;RINW;Dübendorf, Ringwiesen
+2577;1189;HIST;Küsnacht ZH, Himmelistrasse
+1916;3446;ETTE;Zürich, Ettenfeld
+2609;3804;NBRU;Zürich, Neunbrunnen
+2586;3451;MOTT;Zürich, Mötteliweg
+2709;3594;EPIK;Zürich, EPI-Klinik
+2575;2449;SPOW;Zürich, Sportweg
+2618;1288;HUEG;Zürich, Hügelstrasse
+2475;1498;LANA;Unterengstringen, Langacher
+2014;6301;FURT;Spreitenbach, Furttalstrasse
+2352;6724;ULAN;Unterengstringen, Langwisen
+1305;1472;KUNS;Zürich, Kunsthaus
+2516;2869;WELB;Geroldswil, Welbrig
+1405;2277;SHDO;Kilchberg ZH,Schulhaus Dorfstr
+2616;2375;SENN;Zollikerberg, Sennhof
+2275;2388;SIGN;Zürich, Signaustrasse
+2141;2660;TIAK01;Adliswil, Tiefacker
+1909;1440;KSPI;Kilchberg ZH, Spital
+2009;2789;VORB;Bergdietikon, Vorbühl
+2084;1453;KREU;Zürich, Kreuzplatz
+2820;6416;TRSA;Zürich, Trichtisal
+2382;1388;KESS;Schlieren, Kesslerstrasse
+2511;2109;ROTE;Zürich, Rote Fabrik
+2611;6470;RESI;Zollikerberg, Resirain
+1850;1799;RGEM07;Rümlang, Gemeindehaus
+2443;738;EBMA;Ebmatingen
+2543;2034;RAUT;Zürich, Rautistrasse
+1816;972;GESS;Zürich, Gessnerallee
+2643;3477;SRUC;Zürich, Schweizer Rück
+2016;29;AEGU;Unterengstringen, Aegelsee
+2377;6744;RIST;Birmensdorf ZH, Ristet
+1312;657;BDIE;Dietikon, Bahnhof
+2809;46;ALBG;Zürich, Albisgütli
+2852;1327;IGAS;Schlieren, Industrie Gaswerk
+2652;1471;KROE;Zürich, Krönleinstrasse
+2541;1698;NEES;Zürich, Neeserweg
+1407;1457;KREK;Kilchberg ZH, Kreuzstrasse
+1748;1657;MOOS;Rüschlikon, Moosstrasse
+2641;1724;NEUM;Zürich, Neumarkt
+2741;9;RALS;Rüschlikon, Alsenstrasse
+2375;2814;WALD;Zürich, Waldgarten
+2784;2799;WAIB;Zürich, Waidbadstrasse
+2043;2236;SCHL;Schlieren, Zentrum/Bahnhof
+2684;3588;VULK;Zürich, Vulkanstrasse
+2143;6593;EWEG;Adliswil, Eichenweg
+2584;3450;CHAL;Zürich, Chaletweg
+2452;750;EGGL;Fällanden, Eggler
+2509;1856;OTTI;Zürich, Ottikerstrasse
+2109;8809;FOR99;Forch
+2716;6020;GLAS;Zürich, Glaubtenstrasse Süd
+2745;2776;VERE;Zürich, Verenastrasse
+2018;3798;VORS;Dietikon, Vorstadt
+2845;1407;KFLU;Zürich, Kirche Fluntern
+2484;753;EGLI;Dübendorf, Eglishölzli
+2550;1519;LAUB;Zürich, Laubegg
+1809;1763;ORUE07;Rümlang, Oberdorf
+2450;1584;LOOR;Zürich, Loorenstrasse
+2650;1644;MILA;Zürich, Militär-/Langstrasse
+2376;466;BOLD;Bergdietikon, Bernold
+2090;144;BADA;Zürich, Bad Allenmoos
+2508;2689;TUNN;Zürich, Tunnelstrasse
+2708;3769;TFUS;Zürich, Trichtenhausenfussweg
+2751;859;FLOB;Zürich, Flobotstrasse
+1540;6347;SCHB;Schlieren, Bahnhof
+2333;2268;SWEI;Weiningen ZH, Schulhaus
+2769;867;FLUR;Zürich, Flurstrasse
+1890;411;NEUQ;Zürich, Neumühlequai
+2308;1138;HEDW;Zürich, Hedwigsteig
+2394;2399;DMOO;Dietikon, Moosmatt
+2108;6046;DEPF;Forch, Depot Forchbahn
+2626;1549;LPAW;Zürich, Letzipark West
+1790;1925;PGLA07;Glattbrugg, Post
+2040;1054;GRUZ;Dübendorf, Grüzenstrasse
+2844;6421;DEPD;Zürich, Depot Dolderbahn
+2183;2771;SIHN;Zürich, Sihlcity Nord
+2544;1041;GRUN;Zürich, Grünaustrasse
+2744;594;BAER;Zürich, Bärenbohlstrasse
+2315;1507;LANM;Zürich, Langmauerstrasse
+2819;2314;SAPI;Zürich, Schäppiweg
+1379;6508;GLIN07;Glattbrugg, Lindberghplatz
+143;2570;BirmSte;Birmensdorf ZH, Sternen/WSL
+2158;148;ABAD01;Adliswil, Badstrasse
+1797;497;BIGL;Zürich, Birch-/Glatttalstrasse
+2676;2838;DWAS;Dübendorf, Wasserfurren
+2862;1503;LANG;Zürich, Langgrütstrasse
+2619;2803;WAIS;Zürich, Waidspital
+2258;1098;HALB;Zürich, Haldenbach
+1904;2264;SOKI;Kilchberg ZH, Schoorenstrasse
+2906;6825;USEN;Unterengstringen, Sennenbüel
+2053;1414;KWIL;Dübendorf, Kirche Wil
+2657;2396;SIHS;Zürich, Sihlstrasse
+2187;6735;WGLA07;Wallisellen, Glatt
+2436;3467;FMAT;Binz bei Maur, Fridlimatt
+1417;1542;RLET07;Rümlang, Letten
+1687;2820;BWAL07;Wallisellen, Bahnhof
+2102;8802;WAB99;Waldburg
+2606;1194;HINT;Zürich, Hinterbergstrasse
+2706;3767;SEGE;Zürich, Segeten
+2755;2695;TAEG;Itschnach, Tägermoos
+2872;2341;SUET;Zollikon, Schützenstrasse
+2772;2872;WERD;Zürich, Werdhölzli
+1736;6485;GARG01;Garage Adliswil
+2689;832;FELD;Zürich, Feldeggstrasse
+2672;1744;NORH;Zürich, Nordheimstrasse
+2789;3043;BWIP;Zürich, Bahnhof Wipkingen
+2019;2798;WAGO;Schlieren, Wagonsfabrik
+1919;3447;BOEO;Zürich, Bahnhof Oerlikon Ost
+2704;3765;PAUL;Zürich, Paulus-Akademie
+2489;2008;PROB;Zürich, Probstei
+2721;3011;ZWEI;Zürich, Zweiackerstrasse
+2389;815;FAAU;Fahrweid, Au
+2406;2666;TIER;Zürich, Tierspital
+1536;1227;HOFA01;Adliswil, Hofackerstrasse
+2555;2090;BERG;Zürich, Rigiblick
+832;1401;KILB;Kilchberg ZH, Kirche
+1851;6463;SIHC;Zürich, Sihlcity
+2323;8807;Mai 99;Maiacher
+2638;3645;BOGA;Zürich, Botanischer Garten
+1502;2556;STAU;Zürich, Stauffacher
+2289;2395;SIHL;Zürich, Sihlquai/HB
+2787;2127;ROEN;Zürich, Röntgenstrasse
+1270;2680;TRIE;Zürich, Triemli
+2572;2447;SPOH;Zürich, Hardturm
+2587;2364;SEGA;Zürich, Segantinistrasse
+2470;1324;FAEI;Fällanden, Industrie
+2487;2005;PWOL;Zürich, Post Wollishofen
+1534;6238;WERE;Zürich, Werd
+2404;488;BILO;Zürich, Billoweg
+2553;1175;HERT;Zürich, Hertensteinstrasse
+2089;2045;REGB;Zürich, Regensbergbrücke
+2338;1091;HAGA;Dietikon, Hagackerstrasse
+2570;1358;KANO;Zürich, Kanonengasse
+2831;2402;SING;Zürich, Singlistrasse
+2631;544;FBRU;Fällanden, Bruggacher
+2863;1505;LANH;Rüschlikon, Langhaldenstrasse
+2614;2800;WAIF;Zürich, Waidfussweg
+1377;6506;BABH07;Kloten Balsberg, Bahnhof
+2110;2879;WETL;Zürich, Wetlistrasse
+2228;601;BOES;Zürich, Börsenstrasse
+1309;564;BUCH;Zürich, Bucheggplatz
+2245;1548;LETG;Zürich, Letzigrund
+2145;2950;WOLL;Zürich, Wollishofen
+891;1991;WalPost;Waldegg, Post
+2849;1239;HOLZ;Zürich, Holzerhurd
+2463;888;FRIA;Zürich, Friedackerstrasse
+2563;1528;LEHE;Zürich, Lehenstrasse
+2045;1061;GUGG;Zürich, Guggachstrasse
+373;6232;FRAF07;Zürich Flughafen, Fracht
+2832;1315;IWAL;Zürich, Im Walder
+2732;1769;OBHE;Küsnacht ZH, Obere Heslibachst
+2632;546;BRUM;Zürich, Brunau/Mutschellenstr.
+2431;446;BGER;Benglen, Gerlisbrunnen
+2646;468;BERT;Zürich, Bertastrasse
+2546;2152;SALZ;Zürich, Salzweg
+2746;1011;GOBA;Küsnacht ZH, Goldbacherstrasse
+2063;425;DBAL;Bergdietikon, Baltenschwil
+2564;3705;ALBD;Zürich, Albisriederdörfli
+2681;6599;ZOLL;Aesch bei Maur, Zollingerheim
+1628;99;ARC101;Thalwil, Archstrasse
+2346;1616;MARW;Dietikon, Marmori-Weiher
+623;2989;TZEN01;Thalwil, Zentrum
+2578;1615;MARB;Zürich, Marbachweg
+1845;2968;ZEHN;Zürich, Zehntenhausplatz
+2146;2889;WIDM;Zürich, Widmerstrasse
+2060;2256;SWIE;Zürich, Schmiede Wiedikon
+2046;2326;SCHO;Zürich, Schörlistrasse
+2378;1556;LIMB;Fahrweid, Limmatbrücke
+1677;128;AUSS;Zürich, Ausserdorfstrasse
+1528;1861;PARA;Zürich, Paradeplatz
+2782;118;AUFB;Kilchberg ZH, Auf Brunnen
+2381;725;DOER;Dietikon, Dörfli
+2682;573;BUHN;Zürich, Buhnstrasse
+2713;840;FELL;Zürich, Fellenbergstrasse
+2413;1666;MUSR;Zürich, Museum Rietberg
+2464;1892;MPLA;Maur, Platten
+2585;2363;SEES;Zollikon, Seestrasse
+2817;3148;LETP;Zürich, Letzipark
+2485;1843;OETW;Dietikon, Oetwilerstrasse
+2310;1896;POLY;Zürich, Polyterrasse ETH
+2442;1821;OBEW;Zürich, Oberwiesenstrasse
+1692;3740;VHOF07;Volketswil, Hofwisen
+2574;1186;HEUB;Zürich, Heubeeriweg
+2549;1342;ITFA;Itschnach, Fallacher
+2792;1120;HARH;Zürich, Hardhof
+2867;70;ALTE;Zürich, Altenhofstrasse
+2767;6214;URSP;Gockhausen, Ursprungstrasse
+2853;67;ATRO;Zürich, Alte Trotte
+1874;3021;BAFF;Zürich, Bahnhof Affoltern
+2592;443;BELV;Rüschlikon, Belvoir
+2392;2569;STEA;Dietikon, Stelzenacker
+1456;6346;DSON;Dübendorf, Sonnental
+2292;1399;KINK;Zürich, Kinkelstrasse
+2260;2367;RIGI;Zürich, Seilbahn Rigiblick
+2324;1516;LANZ;Oberengstringen, Lanzrain
+2092;2549;REHA;Zürich, Rehalp
+2367;547;BRUN;Zürich, Brunaustrasse
+2081;6032;DEP7;Zürich, Depot 7 Irchel
+2785;2122;RAEN;Küsnacht ZH, Ränkestrasse
+2642;462;BEST;Küsnacht ZH, Bergstrasse
+1574;799;EWYS;Zürich, Escher-Wyss-Platz
+2144;6034;GAR6;Zürich, Garage 6 Hardau
+2797;3133;FJUG;Fällanden, Jugendherberge
+2465;2145;SAAT;Zürich, Saatlenstrasse
+2448;490;MPOS;Binz bei Maur, Post
+2866;418;BUEB;Zollikon, Bahnübergang
+2379;2471;STAF;Dietikon, Staffelackerstrasse
+2780;2038;REBW;Itschnach, Rebweg
+2548;1341;ITDO;Itschnach, Dorf
+2629;1379;KEMP;Zürich, Kempfhofsteig
+2829;2147;SACK;Zürich, Sackzelg
+2812;1139;HEER;Zürich, Heerenwiesen
+1879;3146;BDUN;Dübendorf, Bahnhof Nord
+2712;2937;WIPK;Zürich, Wipkingerplatz
+2680;917;FROE;Zürich, Fröhlichstrasse
+1893;3026;ENGE;Zürich, Bahnhof Enge
+2094;2807;WABG;Waldburg, Station
+1393;2329;SURG;Zürich, Schürgistrasse
+2647;1641;MICH;Zürich, Michelstrasse
+2612;1456;KRES;Zürich, Kreuzstrasse
+2412;3589;OBUR;Urdorf, Oberurdorf
+2312;894;ENZE;Zürich, Friedhof Enzenbühl
+1911;75;ALHK;Kilchberg ZH, Altersheim
+2011;6044;GAAZ;Zollikon, Garage G.-Maurer-Str
+2447;833;FELH;Pfaffhausen, Feldhof
+1311;2572;SOER;Zürich, Sternen Oerlikon
+2430;445;BENG;Benglen
+2816;134;AUZO;Zürich, Auzelg Ost
+2461;1871;PFAF;Pfaffhausen, Pfaffenstein
+2361;1540;LERZ;Dietikon, Lerzen
+2762;1864;PARU;Kilchberg ZH, Paradiesstrasse
+2539;852;FEUS;Zürich, Feusisbergli
+2439;2737;UAFF;Zürich, Unteraffoltern
+2837;3150;AMBO;Zürich, Am Börtli
+2571;1359;KANT;Zürich, Kantonsschule
+2256;1608;LOEW;Zürich, Löwenplatz
+2373;1725;NEUT;Urdorf, Neumatt
+2388;6663;SPAL;Spreitenbach, Altersheim
+2754;1779;OBFE;Küsnacht ZH, Oberfeld
+2654;1478;KAMM;Dübendorf, Kämmaten
+2088;2474;STAM;Zürich, Stampfenbachplatz
+2139;649;DANG;Zürich, Dangelstrasse
+2603;1539;LERC;Zürich, Lerchenhalde
+2354;701;DOGE;Geroldswil, Dorfstrasse
+1535;48;ALBP;Zürich, Albisriederplatz
+2790;961;GDEH;Zollikon, Gemeindehaus
+2369;3472;SWER;Dietikon, Schönenwerd
+2841;1231;HOHE;Zürich, Hohenklingensteig
+1905;1430;KLUS;Zürich, Klusplatz
+2054;1417;KIPL;Dietikon, Kirchplatz
+2707;3768;STBU;Zürich, Staudenbühl
+2807;1307;IHAG;Zürich, Im Hagacker
+1067;992;GLAG07;Glattbrugg, Zentrum
+2871;1252;HUBE;Zürich, Hubertus
+2639;3648;KLOB;Zürich, Klosbach
+2739;3773;WITZ;Zürich, Witikon Zentrum
+701;1012;GOLP;Zürich, Goldbrunnenplatz
+1920;439;BELA07;Wallisellen, Belair
+1869;1462;KROA01;Adliswil, Krone
+2473;2251;SYFI;Zürich, Schlyfi
+2722;1272;HOEF;Zürich, Höfliweg
+2590;615;BURK;Zürich, Bürkliplatz
+2052;998;GLAT;Zürich, Glattwiesen
+2656;471;BETH;Zürich, Bethanien
+2445;914;FRON;Zürich, Fronwald
+2096;2826;WALT;Zumikon, Waltikon
+2714;2596;STRV;Zürich, Strassenverkehrsamt
+2528;1158;HELV;Zürich, Helvetiaplatz
+2428;617;CARL;Zürich, Carl-Spitteler-Strasse
+2814;2055;RENT;Zürich, Rentenanstalt
+2645;467;BERO;Zürich, Bernoulli-Häuser
+2010;1028;GRIN;Geroldswil, Grindlen
+2396;1397;KIND;Kindhausen AG
+2582;1446;KSIH;Zürich, Krematorium Sihlfeld
+1509;1577;LISP;Kilchberg ZH, Lindt & Sprüngli
+2113;1144;HEGI;Zürich, Hegibachplatz
+2313;2151;SALE;Zürich, Salersteig
+2846;2999;FZIL;Fällanden, Zil
+2514;6038;GALI;Dietikon, Garage Limmatbus AG
+2763;3789;BOLL;Zürich, Bollingerweg
+2663;3744;ZENK;Küsnacht ZH, Zentrum
+1392;3241;WFLO07;Wallisellen, Florastrasse
+1527;948;GEME;Weiningen ZH, Gemeindehaus
+2781;2795;WAFF;Zürich, Waffenplatzstrasse
+2481;1586;LUBE;Urdorf, Luberzen
+2114;6254;LAEN;Zollikerb., Langägerten/Spital
+809;501;BirmBhf;Birmensdorf ZH, Bahnhof
+2764;1865;HURL;Zürich, Hürlimannplatz
+2813;3141;LAND;Zürich, Landiwiese
+2595;3458;PSCH;Zürich, Schauenberg
+2864;2167;SIHG;Küsnacht ZH, Schiedhaldensteig
+2664;3747;TRIC;Zollikerberg, Trichtenhauserm.
+1010;2160;SCHA;Zürich, Schaufelbergerstrasse
