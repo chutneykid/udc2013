@@ -3,23 +3,27 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <link href="resources/scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="resources/scripts/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
   
   <script src="resources/scripts/crossfilter.v1.js"></script>
-  <script src="resources/scripts/d3.v2.js"></script>
+
+  <script src="resources/scripts/d3.v3.min.js" type="text/javascript" charset="utf-8"></script>
   <script src="resources/scripts/jquery-1.9.1.min.js"></script>
-  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-YiurRX6GixuExPSrQgbcOwcUWinAn54&sensor=false">
-  </script>
+  
+  
+  <script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?v=3&sensor=true&key=AIzaSyA-YiurRX6GixuExPSrQgbcOwcUWinAn54"></script>
+  
+  <!--script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-YiurRX6GixuExPSrQgbcOwcUWinAn54&sensor=false"></script-->
   <script src="resources/scripts/bootstrap/js/bootstrap.min.js"></script>
   <script src="resources/scripts/GeoJSON.js"></script>
+  <script src="resources/scripts/main.js"></script>
   <script src="resources/scripts/utils.js"></script>
-  
-  <style type="text/css">
-    html { height: 100% }
-    body { height: 100%; margin: 0; padding: 0 }
-    #map_canvas { height: 450px; width:100%; }
-  </style>
-  
+
+
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/overcast/jquery-ui.css" />
+  <link rel="stylesheet" href="resources/styles/styles.css" />
+ 
 </head>
 <body onload="initialize()">
   
@@ -27,37 +31,57 @@
     
     <!-- GUI Selector -->
     <div id="form">
-      <!--select id="city"></select-->
-      <strong>Select a City and a Route or Stop:</strong><br/>
-      <select id="city">
-        <option value="sf">San Francisco</option>
-        <option value="geneva">Geneva</option>
-        <option value="zurich">Zurich</option>
-      </select>
+      <div class="controls">
+        <select id="city">
+          <option value="sf">San Francisco</option>
+          <option value="geneva">Geneva</option>
+          <option value="zurich">Zurich</option>
+        </select>
+      </div>
       
-      <select id="route">
+      <!--select id="route">
         <option>Select a route ...</option>
-      </select>
-      <strong>Or</strong>
+      </select-->
+      <!--strong>Or</strong>
       <select id="stops">
         <option>Select a stop ...</option>
       </select>
-      
       <select id="paths">
         <option>Select a path ...</option>
-      </select>
-      
+      </select-->
       <!--button id="refresh">Refresh</button-->
-      
-      <div id="info">
-        
-      </div>
+      <div id="info"></div>
     </div>
     <div id="viz"></div>
+
+    <div id="range">
+      <div id="currentTime"></div>
+      <div id="day">Monday, October 1st,  2012</div>
+      <div id="slider"></div>
+    </div>
+
     
     <div id="map_canvas" style="width:600;"></div>
-    
-    <script src="resources/scripts/main.js"></script>
+    <script>
+		$(document).ready(function() {
+      
+			/* Listen for City Change */
+			citySelect = $("#city");
+			loadRoutes(citySelect.val());    
+
+			citySelect.bind("change", function(){
+				var value = $(this).val();
+  
+				loadRoutes(value);
+  
+				/* Load the new city center */
+				google.maps.event.trigger(map, 'resize');
+				map.setCenter(CITY_CENTER[value]);
+			});
+			loadData("sf");
+		});
+
+    </script>
     
 </body>
 </html>
